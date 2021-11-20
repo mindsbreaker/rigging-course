@@ -2,7 +2,6 @@
 title: Environment
 ---
 
-
 ## *Set your Environment*
 
 ### Variables

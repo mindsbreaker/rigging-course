@@ -20,7 +20,7 @@ title: Rigging
 <br>
 
 
->:bulb: **First Tip:** Lazy people are likely to be smarter !
+! **First Tip:** Lazy people are likely to be smarter !
 
 Get full course content & resources from the cloud ::: :cloud: [Download](http://u.pc.cd/5h3ctalK)  
 

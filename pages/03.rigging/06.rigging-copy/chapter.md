@@ -1,8 +1,5 @@
 ---
 title: 'Rigging (Copy)'
-taxonomy:
-    tag:
-        - docs
 ---
 
 <div align=center>

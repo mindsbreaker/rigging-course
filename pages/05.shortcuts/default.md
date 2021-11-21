@@ -2,20 +2,19 @@
 title: Shortcuts
 ---
 
-## **Shortcuts**
 
-!!! Check official Maya shortcuts ::: [full](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/Maya-KeyboardShortcuts/files/GUID-840DB5D4-05DB-4340-9A59-D2C7B2343EA4-htm.html) | [short](https://www.autodesk.com/shortcuts/maya)
+!!!! Check official Maya shortcuts ::: [full](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/Maya-KeyboardShortcuts/files/GUID-840DB5D4-05DB-4340-9A59-D2C7B2343EA4-htm.html) | [short](https://www.autodesk.com/shortcuts/maya)
 
-### Scene  
+### *Scene*
 
->| `HOTKEY`  | `DESCRIPTION`
->| -------- | -----------
->| **Ctrl + N** | New scene
->| **Ctrl + O** | Open scene
->| **Ctrl + S** | Save scene
->| **Ctrl + Shift + S** | Save scene as
->| **Ctrl + R** | Create file reference
->| **Ctrl + Q** | Exit Maya
+| `HOTKEY`  | `DESCRIPTION`
+| -------- | -----------
+| **Ctrl + N** | New scene
+| **Ctrl + O** | Open scene
+| **Ctrl + S** | Save scene
+| **Ctrl + Shift + S** | Save scene as
+| **Ctrl + R** | Create file reference
+| **Ctrl + Q** | Exit Maya
 
 ### Menu  
 

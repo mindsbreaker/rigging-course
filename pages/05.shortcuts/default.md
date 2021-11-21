@@ -124,7 +124,7 @@ ___
 
 <br>
 ___
-### ***Pick Walk*** (hierarchy)
+### ***Pick Walk***  (hierarchy)
 
 | `HOTKEY` | `DESCRIPTION`
 | -------- | -----------

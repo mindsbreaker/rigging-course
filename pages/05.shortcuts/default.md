@@ -4,7 +4,7 @@ title: Shortcuts
 
 ## *Shortcuts*
 
-Check official Maya shortcuts ::: [full](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/Maya-KeyboardShortcuts/files/GUID-840DB5D4-05DB-4340-9A59-D2C7B2343EA4-htm.html) | [short](https://www.autodesk.com/shortcuts/maya)
+!! Check official Maya shortcuts ::: [full](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/Maya-KeyboardShortcuts/files/GUID-840DB5D4-05DB-4340-9A59-D2C7B2343EA4-htm.html) | [short](https://www.autodesk.com/shortcuts/maya)
 
 ### Scene  
 
@@ -17,8 +17,6 @@ Check official Maya shortcuts ::: [full](https://knowledge.autodesk.com/support/
 >| **Ctrl + R**  | Create file reference
 >| **Ctrl + Q**  | Exit Maya
 
-<br>
-
 ### Menu  
 
 >| `HOTKEY`  | `DESCRIPTION`
@@ -28,8 +26,6 @@ Check official Maya shortcuts ::: [full](https://knowledge.autodesk.com/support/
 >| **Shift + M**  | Show/hide panel menu bar
 >| **Ctrl + Shift + M**  | Show/hide panel toolbar
 >| **Space**  | Show the hotbox (hold key)
-
-<br>
 
 ### Display  
 
@@ -45,8 +41,6 @@ Check official Maya shortcuts ::: [full](https://knowledge.autodesk.com/support/
 >| **Shift + H**  | Show selection
 >| **Ctrl + Shift + H**  | Show last hidden
 >| **Shift + I** or **Ctrl + 1**  | Toggle isolate selected in viewport
-
-<br>
 
 ### Edit  
 

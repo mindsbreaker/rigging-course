@@ -4,7 +4,8 @@ title: Shortcuts
 
 !!!! Check official Maya shortcuts ::: [full](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/Maya-KeyboardShortcuts/files/GUID-840DB5D4-05DB-4340-9A59-D2C7B2343EA4-htm.html) | [short](https://www.autodesk.com/shortcuts/maya)
 
-### *Scene*
+### ***Scene***
+___
 
 | `HOTKEY`  | `DESCRIPTION`
 | -------- | -----------
@@ -15,7 +16,8 @@ title: Shortcuts
 | **Ctrl + R** | Create file reference
 | **Ctrl + Q** | Exit Maya
 
-### *Menu*  
+### ***Menu* **
+___
 
 | `HOTKEY`  | `DESCRIPTION`
 | --------  | -----------
@@ -25,7 +27,8 @@ title: Shortcuts
 | **Ctrl + Shift + M**  | Show/hide panel toolbar
 | **Space**  | Show the hotbox (hold key)
 
-### *Display* 
+### ***Display*** 
+___
 
 >| `HOTKEY`  | `DESCRIPTION`
 >| --------  | -----------
@@ -40,7 +43,8 @@ title: Shortcuts
 >| **Ctrl + Shift + H**  | Show last hidden
 >| **Shift + I** or **Ctrl + 1**  | Toggle isolate selected in viewport
 
-### *Edit*
+### ***Edit***
+___
 
 >| `HOTKEY`  | `DESCRIPTION`
 >| --------  | -----------
@@ -56,7 +60,8 @@ title: Shortcuts
 >| **Ctrl + Shift + D**  | Duplicate special
 >| **Shift + D**  | Duplicate with transform
 
-### *Tools*
+### ***Tools***
+___
 
 >| `HOTKEY`  | `DESCRIPTION`
 >| --------  | -----------
@@ -68,7 +73,8 @@ title: Shortcuts
 >| **T**  | Manipulator tool
 >| **Ctrl + T**  | Universal manipulator tool
 
-### **Pivot & Snapping**
+### ***Pivot & Snapping***
+___
 
 >| `HOTKEY`  | `DESCRIPTION`
 >| --------  | -----------
@@ -79,7 +85,8 @@ title: Shortcuts
 >| **X**  | Snap to grids (hold key)
 >| **V**  | Snap to points (hold key)
 
-### Components  
+### ***Components***
+___
 
 >| `HOTKEY`  | `DESCRIPTION`
 >| --------  | -----------
@@ -96,7 +103,8 @@ title: Shortcuts
 >| **Ctrl + F11**  | Convert polygon selection to Faces
 >| **Ctrl + F12**  | Convert polygon selection to UVs
 
-### Anim  
+### ***Anim***
+___
 
 >| `HOTKEY`  | `DESCRIPTION`
 >| --------  | -----------
@@ -106,7 +114,8 @@ title: Shortcuts
 >| **Shift + R**  | Set key for Scale
 >| **Shift + S** & **LMB** | Keyframe marking menu (hold)
 
-### Pick Walk (hierarchy)
+### ***Pick Walk*** (hierarchy)
+___
 
 >| `HOTKEY`  | `DESCRIPTION`
 >| --------  | -----------

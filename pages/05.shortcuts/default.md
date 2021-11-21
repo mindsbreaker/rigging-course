@@ -5,7 +5,7 @@ title: Shortcuts
 !!!! Check official Maya shortcuts ::: [full](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/Maya-KeyboardShortcuts/files/GUID-840DB5D4-05DB-4340-9A59-D2C7B2343EA4-htm.html) | [short](https://www.autodesk.com/shortcuts/maya)
 <br>
 ___
-### ***Scene***
+#### ***Scene***
 
 | `HOTKEY`  | `DESCRIPTION`
 | -------- | -----------
@@ -18,7 +18,7 @@ ___
 
 <br>
 ___
-### ***Menu* **
+#### ***Menu* **
 
 | `HOTKEY`  | `DESCRIPTION`
 | --------  | -----------
@@ -28,8 +28,9 @@ ___
 | **Ctrl + Shift + M**  | Show/hide panel toolbar
 | **Space**  | Show the hotbox (hold key)
 
-### ***Display*** 
+<br>
 ___
+#### ***Display*** 
 
 >| `HOTKEY`  | `DESCRIPTION`
 >| --------  | -----------
@@ -44,8 +45,9 @@ ___
 >| **Ctrl + Shift + H**  | Show last hidden
 >| **Shift + I** or **Ctrl + 1**  | Toggle isolate selected in viewport
 
-### ***Edit***
+<br>
 ___
+#### ***Edit***
 
 >| `HOTKEY`  | `DESCRIPTION`
 >| --------  | -----------

@@ -8,14 +8,14 @@ title: Shortcuts
 
 ### Scene  
 
->| `HOTKEY` | `DESCRIPTION`
->| --------  | -----------
->| **Ctrl + N**  | New scene
->| **Ctrl + O**  | Open scene
->| **Ctrl + S**  | Save scene
->| **Ctrl + Shift + S**  | Save scene as
->| **Ctrl + R**  | Create file reference
->| **Ctrl + Q**  | Exit Maya
+>| `HOTKEY`  | `DESCRIPTION`
+>| -------- | -----------
+>| **Ctrl + N** | New scene
+>| **Ctrl + O** | Open scene
+>| **Ctrl + S** | Save scene
+>| **Ctrl + Shift + S** | Save scene as
+>| **Ctrl + R** | Create file reference
+>| **Ctrl + Q** | Exit Maya
 
 ### Menu  
 

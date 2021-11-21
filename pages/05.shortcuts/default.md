@@ -16,8 +16,9 @@ ___
 | **Ctrl + R** | Create file reference
 | **Ctrl + Q** | Exit Maya
 
-### ***Menu* **
+<br>
 ___
+### ***Menu* **
 
 | `HOTKEY`  | `DESCRIPTION`
 | --------  | -----------

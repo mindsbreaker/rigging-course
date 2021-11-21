@@ -8,7 +8,7 @@ title: Shortcuts
 
 ### Scene  
 
->| HOTKEY  | DESCRIPTION
+>| HOTKEY | DESCRIPTION
 >| --------  | -----------
 >| **Ctrl + N**  | New scene
 >| **Ctrl + O**  | Open scene

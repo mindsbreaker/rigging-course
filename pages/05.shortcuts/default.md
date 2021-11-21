@@ -8,7 +8,7 @@ title: Shortcuts
 
 ### Scene  
 
->| `HOTKEY`  | `DESCRIPTION`
+>| HOTKEY  | DESCRIPTION
 >| --------  | -----------
 >| **Ctrl + N**  | New scene
 >| **Ctrl + O**  | Open scene
@@ -58,8 +58,6 @@ title: Shortcuts
 >| **Ctrl + Shift + D**  | Duplicate special
 >| **Shift + D**  | Duplicate with transform
 
-<br>
-
 ### Tools  
 
 >| `HOTKEY`  | `DESCRIPTION`
@@ -72,8 +70,6 @@ title: Shortcuts
 >| **T**  | Manipulator tool
 >| **Ctrl + T**  | Universal manipulator tool
 
-<br>
-
 ### Pivot & Snapping  
 
 >| `HOTKEY`  | `DESCRIPTION`
@@ -84,8 +80,6 @@ title: Shortcuts
 >| **C**  | Snap to curves (hold key)
 >| **X**  | Snap to grids (hold key)
 >| **V**  | Snap to points (hold key)
-
-<br>
 
 ### Components  
 
@@ -103,8 +97,6 @@ title: Shortcuts
 >| **Ctrl + F10**  | Convert polygon selection to Edges
 >| **Ctrl + F11**  | Convert polygon selection to Faces
 >| **Ctrl + F12**  | Convert polygon selection to UVs
-
-<br>
 
 ### Anim  
 

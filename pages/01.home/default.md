@@ -3,7 +3,7 @@ title: '3D Rigging'
 body_classes: 'title-center title-h1h2'
 ---
 
-## 3D Rigging - Setup for Animation
+# *Setup for Animation*
 !!!! **First Tip:** Lazy people are likely to be smarter !
 
 ## installation successful...

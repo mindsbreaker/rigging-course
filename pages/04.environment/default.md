@@ -2,8 +2,6 @@
 title: Environment
 ---
 
-## *Set Maya's Env*
-
 ### Variables
 
 To customize Maya's behavior the best way is [Environment Variables](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-925EB3B5-1839-45ED-AA2E-3184E3A45AC7).  

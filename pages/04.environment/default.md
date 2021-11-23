@@ -2,7 +2,7 @@
 title: Environment
 ---
 
-## *Set your Environment*
+## *Set Maya's Env*
 
 ### Variables
 

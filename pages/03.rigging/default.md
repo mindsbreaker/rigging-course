@@ -2,31 +2,6 @@
 title: Rigging
 ---
 
-<div align=center>
-    <h1>3D Rigging 1 ::: Bachelor Course</h1>
-    <p align="center">
-    <a href=https://www.linkedin.com/in/michael-fransolet-1370b38><img src="https://img.shields.io/static/v1?label=author&message=MikaFr&color=orange&logo=linkedin"></a>
-    <a href=https://www.markdownguide.org><img src="https://img.shields.io/static/v1?label=format&message=Markdown&color=blue&logo=markdown"></a>
-    <a href=https://github.com/Mikfr83/course_rigging_1><img src="https://img.shields.io/static/v1?label=version&message=0.0.1&color=yellow&logo=github"></a>
-    <img src="https://img.shields.io/badge/license-MIT-green.svg">
-    </p>
-    <p align="center">
-    <img src="https://img.shields.io/static/v1?label=windows&message=V&color=brightgreen&logo=windows">
-    <img src="https://img.shields.io/static/v1?label=linux&message=V&color=brightgreen&logo=linux&logoColor=white">
-    <img src="https://img.shields.io/static/v1?label=mac&message=X&color=red&logo=apple&logoColor=white">
-    </p>
-</div>
-
-<br>
-
-
-! **First Tip:** Lazy people are likely to be smarter !
-
-Get full course content & resources from the cloud ::: :cloud: [Download](http://u.pc.cd/5h3ctalK)  
-
----
-
-<br>
 
 ## *UI Management*
 

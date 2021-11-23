@@ -1,5 +1,5 @@
 ---
-title: Home
+title: '3D Rigging'
 body_classes: 'title-center title-h1h2'
 ---
 

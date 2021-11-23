@@ -3,6 +3,19 @@ title: Home
 body_classes: 'title-center title-h1h2'
 ---
 
+<div align=center>
+    <h1>3D Rigging ::: Setup for Animation</h1>
+    <p align="center">
+    <a href=https://www.linkedin.com/in/michael-fransolet-1370b38><img src="https://img.shields.io/static/v1?label=author&message=MikaFr&color=orange&logo=linkedin"></a>
+    <a href=https://www.markdownguide.org><img src="https://img.shields.io/static/v1?label=format&message=Markdown&color=blue&logo=markdown"></a>
+    <a href=https://github.com/Mikfr83/course_rigging_1><img src="https://img.shields.io/static/v1?label=version&message=0.0.1&color=yellow&logo=github"></a>
+    <img src="https://img.shields.io/badge/license-MIT-green.svg">
+    </p>
+</div>
+
+!!! **First Tip:** Lazy people are likely to be smarter !
+---
+
 # Say Hello to Grav!
 ## installation successful...
 

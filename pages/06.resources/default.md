@@ -2,8 +2,7 @@
 title: Resources
 ---
 
-
-#### Maya Modules Archives
+## *Maya Modules Archives*
 
 | Module                | Description         
 | --------------------  | --------------------

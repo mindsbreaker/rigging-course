@@ -4,7 +4,7 @@ title: 'Scene Nodes'
 
 !!!! Maya has many [*types*](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-21B83FF0-0435-4087-8C2E-23B420028B71) of nodes that serve any number of different functions.  
 
-
+___
 ### DG Nodes
 
 All nodes in Maya are considered DG nodes, is really at the heart of Maya.  
@@ -13,6 +13,7 @@ which describes the hierarchical relationship between connected nodes.
 
 > :information_source: **Note:**  The DG can be visualized in the *Node Editor* or the *Hypergraph* (Connections mode).
 
+___
 ### DAG Nodes
 
 DAG ([Directed Acyclic Graph](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-5029CF89-D420-4236-A7CF-884610828B70)) is essentially the object hierarchy and compose the [scene hierarchy](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-D71F6D34-FA77-43DC-9BF1-481123A682DC).  
@@ -43,6 +44,7 @@ Geometry data is stored in this node, such as mesh, nurbsCurve, locator, ...
 They don't contain parenting or transform informations.  
 Shape nodes must have a transformation node as a parent to define where the geometry is located in space.  
 
+___
 ### DAG Path
 
 A DAG path is expressed in Maya as a string with the nodes in the path separated with the pipe **`|`** character.  

@@ -5,6 +5,7 @@ title: 'UI Management'
 !!!! To avoid losing your settings & UI customization for the current Maya session ... YES Maya crash "sometimes" !  
 !!!! Use ***Save Preferences***  in the main menu ***File***.
 
+___
 ### Menus
 
 With the keys **`F2`** >> **`F6`** you can switch between the default [menu sets](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-D90A2BDB-FD05-4528-8A95-C33A02D15129). (Mod / Rig / Anim / FX / Render)  
@@ -28,6 +29,7 @@ Main menu bar ::: **`Ctrl + M`**
 Panel menu bar ::: **`Shift + M`**
 Panel toolbar ::: **`Ctrl + Shift + M`**
 
+___
 ### Shelves 
 
 Fast create your custom [shelves](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-4A21F741-C9AC-4AE5-897E-B6F8C68ADF90):
@@ -40,6 +42,7 @@ Fast create your custom [shelves](https://help.autodesk.com/view/MAYAUL/2020/ENU
 
 >:information_source: **Note:** Use the [Shelf Editor](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-58C25080-5864-4709-BE3A-0543E9D1FCF2) to add double click command & popup menu to your shelves.
 
+___
 ### Workspaces
 
 Use [Workspaces](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-0384C282-3CA1-4587-9775-F7164D3F6980) to manage your tabbed panels & UI configuration.  

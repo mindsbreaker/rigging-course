@@ -2,7 +2,6 @@
 title: Rigging
 ---
 
-
 ## *UI Management*
 
 >:bulb: **Tip:** To avoid losing your settings & UI customization for the current Maya session ... 

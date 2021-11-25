@@ -7,11 +7,11 @@ Maya has many [types](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-
 ___
 ### DG Nodes
 
-All nodes in Maya are considered DG nodes, is really at the heart of Maya.  
-The relationship between these nodes is organized by the [Dependency Graph](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-51096BC4-32B7-4391-BE39-21641B374745) (DG),  
-which describes the hierarchical relationship between connected nodes.  
+All nodes in Maya are considered DG nodes, is really at the heart of Maya, it's like a DNA.  
+The relationship between these nodes is organized by the [Dependency Graph](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-51096BC4-32B7-4391-BE39-21641B374745) (DG), which describes the hierarchical relationship between connected nodes.  
 
-!!! The DG can be visualized in the [**Node Editor**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-23277302-6665-465F-8579-9BC734228F69) or the [**Hypergraph**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-5EC40DB1-FBD9-4553-A2FD-6D3508C9B868)  (Connections mode).
+!!! The DG can be visualized in the [**Node Editor**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-23277302-6665-465F-8579-9BC734228F69) or the [**Hypergraph**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-5EC40DB1-FBD9-4553-A2FD-6D3508C9B868)  (Connections mode).  
+!!! All DG nodes from scene could be displayed in the outliner, 
 
 ___
 ### DAG Nodes
@@ -48,4 +48,4 @@ For example: `|pSphere1|pSphereShape1`
 Maya allows DAG nodes to have the same name as long as they are not direct siblings in the DAG hierarchy.  
 Therefore a full DAG path provides a unique identifier for a specific DAG node.  
 
-!!!! It's generally a good practice to make sure every node has a unique name across the entire scene.  
+!!!! It's generally a good practice to make sure every node has a **unique** name across the entire scene.  

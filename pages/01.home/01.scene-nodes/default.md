@@ -33,11 +33,10 @@ A transform node defines a transformation in space.
 The transformation can be modified by setting the values of `translation`, `rotation` and `scale` attributes.  
 A transform node can have any number of children and at most a single parent.  
 
-> :information_source: **Note:** You can set the *'Inherits Transform'* attribute to *OFF* to ignore the transformation of its ancestors in the hierarchy.  
-This can be beneficial if the transforms are used for grouping purposes only.  
+!!! You can set the *Inherits Transform* attribute to *OFF* to ignore the transformation of its ancestors in the hierarchy.  
+!!! This can be beneficial if the transforms are used for grouping purposes only.  
 
->:bulb: **Tip:** You can visualize the transform axis in the viewport by turning *ON* 
-in the menu *Display* -> *Transform Display* -> *Local Rotation Axes*
+!!! You can visualize the transform axis in the viewport by turning *ON* in the menu *Display* -> *Transform Display* -> *Local Rotation Axes*
 
 #### Shape Node
 Geometry data is stored in this node, such as mesh, nurbsCurve, locator, ...  

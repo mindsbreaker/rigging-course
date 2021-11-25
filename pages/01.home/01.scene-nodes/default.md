@@ -31,9 +31,8 @@ A transform node defines a transformation in space.
 The transformation can be modified by setting the values of `translation`, `rotation` and `scale` attributes.  
 A transform node can have any number of children and at most a single parent.  
 
-!!! You can set the *Inherits Transform* attribute to *OFF* to ignore the transformation of its ancestors in the hierarchy.  
-!!! This can be beneficial if the transforms are used for grouping purposes only.  
-!!! You can visualize the transform axis in the viewport by turning *ON* in the menu *Display* -> *Transform Display* -> *Local Rotation Axes*  
+!!! You can set the **Inherits Transform** attribute to **OFF** to ignore the transformation of its ancestors in the hierarchy. This can be beneficial if the transforms are used for grouping purposes only.  
+!!! You can visualize the transform axis in the viewport by turning **ON** in the menu **Display** -> **Transform Display** -> **Local Rotation Axes**  
 
 #### Shape Node
 Geometry data is stored in this node, such as mesh, nurbsCurve, locator, ...  
@@ -49,4 +48,4 @@ For example: `|pSphere1|pSphereShape1`
 Maya allows DAG nodes to have the same name as long as they are not direct siblings in the DAG hierarchy.  
 Therefore a full DAG path provides a unique identifier for a specific DAG node.  
 
-!!! It's generally a good practice to make sure every node has a unique name across the entire scene.  
+!!!! It's generally a good practice to make sure every node has a unique name across the entire scene.  

@@ -2,8 +2,8 @@
 title: 'UI Management'
 ---
 
-!!!! **Tip:** To avoid losing your settings & UI customization for the current Maya session ...  
-YES Maya crash "sometimes" ! Use *'Save Preferences'* in the main menu *'File'*.
+!!!! **Tip:** To avoid losing your settings & UI customization for the current Maya session ... YES Maya crash "sometimes" !  
+!!!! Use *'Save Preferences'* in the main menu *'File'*.
 
 ### Menus
 

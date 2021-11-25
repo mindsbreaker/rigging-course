@@ -1,5 +1,5 @@
 ---
-title: Rigging
+title: 'UI Management'
 ---
 
 ## *UI Management*

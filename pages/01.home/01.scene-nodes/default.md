@@ -11,7 +11,7 @@ All nodes in Maya are considered DG nodes, is really at the heart of Maya, it's 
 The relationship between these nodes is organized by the [Dependency Graph](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-51096BC4-32B7-4391-BE39-21641B374745) (DG), which describes the hierarchical relationship between connected nodes.  
 
 !!! The DG can be visualized in the [**Node Editor**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-23277302-6665-465F-8579-9BC734228F69) or the [**Hypergraph**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-5EC40DB1-FBD9-4553-A2FD-6D3508C9B868)  (Connections mode).  
-!!! All DG nodes from scene could be displayed in the *Outliner* by turning **OFF** in the menu **Display** -> **DAG Objects Only**
+!!! All DG nodes from scene could be displayed in the [**Outliner**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-4B9A9A3A-83C5-445A-95D5-64104BC47406) by turning **OFF** in the menu **Display** -> **DAG Objects Only**
 
 ___
 ### DAG Nodes
@@ -22,7 +22,7 @@ It builds on top of DG and provides a way to describe the parent-child relations
 Most of the objects displayed in the Maya viewport are DAG nodes.  
 These objects consists of a hierarchy in which the shape is a child of the transform.  
 
-!!! You can visualize the DAG in the [**Outliner**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-4B9A9A3A-83C5-445A-95D5-64104BC47406) or **Hypergraph** (Hierarchy mode).  
+!!! You can visualize the DAG in the **Outliner** or **Hypergraph** (Hierarchy mode).  
 !!! This DAG relationship can be modified using the *Parent* (**P**) or *Group* (**Ctrl + G**) commands.  
 !!! You can traverse the DAG hierarchy using the arrow keys, **up-down** to navigate the parent-child relationship, and **left-right** to navigate the siblings.  
 

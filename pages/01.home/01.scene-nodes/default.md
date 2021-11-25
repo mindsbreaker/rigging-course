@@ -2,7 +2,8 @@
 title: 'Scene Nodes'
 ---
 
-!!!! Maya has many [*types*](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-21B83FF0-0435-4087-8C2E-23B420028B71) of nodes that serve any number of different functions.  
+!!! Maya has many [***types***](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-21B83FF0-0435-4087-8C2E-23B420028B71) of nodes that serve any number of different functions.  
+
 
 ___
 ### DG Nodes
@@ -11,7 +12,8 @@ All nodes in Maya are considered DG nodes, is really at the heart of Maya.
 The relationship between these nodes is organized by the [Dependency Graph](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-51096BC4-32B7-4391-BE39-21641B374745) (DG),  
 which describes the hierarchical relationship between connected nodes.  
 
-> :information_source: **Note:**  The DG can be visualized in the *Node Editor* or the *Hypergraph* (Connections mode).
+!!! The DG can be visualized in the ***Node Editor*** or the ***Hypergraph*** (Connections mode).
+
 
 ___
 ### DAG Nodes
@@ -22,11 +24,9 @@ It builds on top of DG and provides a way to describe the parent-child relations
 Most of the objects displayed in the Maya viewport are DAG nodes.  
 These objects consists of a hierarchy in which the shape is a child of the transform.  
 
-> :information_source: **Note:**  You can visualize the DAG in the [*Outliner*](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-4B9A9A3A-83C5-445A-95D5-64104BC47406) or *Hypergraph* (Hierarchy mode).  
-This DAG relationship can be modified using the *'Parent'* (**`P`**) or *'Group'* (**`Ctrl + G`**) commands.  
-
->:bulb: **Tip:** You can traverse the DAG hierarchy using the arrow keys,  
-*up-down* to navigate the parent-child relationship, and *left-right* to navigate the siblings.  
+!!! You can visualize the DAG in the [***Outliner***](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-4B9A9A3A-83C5-445A-95D5-64104BC47406) or *Hypergraph* (Hierarchy mode).  
+!!! This DAG relationship can be modified using the *Parent* (**P**) or *Group* (**Ctrl + G**) commands.  
+!!! You can traverse the DAG hierarchy using the arrow keys, ***up-down*** to navigate the parent-child relationship, and ***left-right*** to navigate the siblings.  
 
 #### Transform Node
 A transform node defines a transformation in space.  
@@ -43,6 +43,7 @@ in the menu *Display* -> *Transform Display* -> *Local Rotation Axes*
 Geometry data is stored in this node, such as mesh, nurbsCurve, locator, ...  
 They don't contain parenting or transform informations.  
 Shape nodes must have a transformation node as a parent to define where the geometry is located in space.  
+
 
 ___
 ### DAG Path

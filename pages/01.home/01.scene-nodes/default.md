@@ -2,7 +2,7 @@
 title: 'Scene Nodes'
 ---
 
-!!! Maya has many [***types***](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-21B83FF0-0435-4087-8C2E-23B420028B71) of nodes that serve any number of different functions.  
+Maya has many [types](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-21B83FF0-0435-4087-8C2E-23B420028B71) of nodes that serve any number of different functions.  
 
 
 ___

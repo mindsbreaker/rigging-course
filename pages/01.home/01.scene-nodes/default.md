@@ -5,7 +5,7 @@ media_order: nodes_video_thumbnail.png
 
 !!!! Maya has many [types](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-21B83FF0-0435-4087-8C2E-23B420028B71) of nodes that serve any number of different functions.  
 !!!! All nodes in Maya are considered **DG** nodes, is really at the heart of Maya, it's like a **DNA**.  
-!!!! [What are nodes and connections in Maya?](https://www.youtube.com/watch?v=hzpz2vksI7Q)  
+!!!! <i class="far fa-play-circle"></i> [What are nodes and connections in Maya?](https://www.youtube.com/watch?v=hzpz2vksI7Q)  
 
 ___
 ### DG Nodes

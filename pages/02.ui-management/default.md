@@ -24,10 +24,10 @@ Useful & main [marking menus](https://help.autodesk.com/view/MAYAUL/2020/ENU/?gu
 | Poly UV  | **`O`** and **`MMB`**  
 | Keyframe  | **`Shift`** + **`S`** and **`LMB`**  
 
-!!! To toggle Maya's menu bars, use these shortcuts:
-!!! Main menu bar ::: **`Ctrl + M`**
-!!! Panel menu bar ::: **`Shift + M`**
-!!! Panel toolbar ::: **`Ctrl + Shift + M`**
+!!! To toggle Maya's menu bars, use these shortcuts:  
+!!! Main menu bar ::: **`Ctrl + M`**  
+!!! Panel menu bar ::: **`Shift + M`**  
+!!! Panel toolbar ::: **`Ctrl + Shift + M`**  
 
 ___
 ### Shelves 

@@ -51,4 +51,4 @@ For example: `|pSphere1|pSphereShape1`
 Maya allows DAG nodes to have the same name as long as they are not direct siblings in the DAG hierarchy.  
 Therefore a full DAG path provides a unique identifier for a specific DAG node.  
 
-!!!! <i class="fa fa-lightbulb"></i> It's generally a good practice to make sure every node has a **unique** name across the entire scene.  
+!!!! <i class="fa fa-info-circle"></i> It's generally a good practice to make sure every node has a **unique** name across the entire scene.  

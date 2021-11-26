@@ -49,4 +49,4 @@ Use [Workspaces](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-0384C
 In the workspace [layout options](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-B69DF865-D749-43C6-9FD7-BC3E454C0311) you can link a **Menu Set**, a **Hotkey Set** and a **VP2.0 Preset**.  
 
 !!! To avoid bad UI manipulation you can freeze your current workspace.  
-!!! Use the **lock** icon in the upper right corner of Maya's main window.  
+!!! Use the ***lock*** icon in the upper right corner of Maya's main window.  

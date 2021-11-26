@@ -1,13 +1,14 @@
 ---
 title: 'Scene Nodes'
-media_order: nodes_video_thumbnail.png
+media_order: 'nodes_video_thumbnail.png,coursehub.png'
 ---
 
 !!!! Maya has many [types](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-21B83FF0-0435-4087-8C2E-23B420028B71) of nodes that serve any number of different functions.  
 !!!! All nodes in Maya are considered **DG** nodes, is really at the heart of Maya, it's like a **DNA**.  
 
-[test](nodes_video_thumbnail.png?thumbnail=default&display=thumbnail)  
+![test](nodes_video_thumbnail.png?thumbnail=default&display=thumbnail)  
 [See: What are nodes and connections in Maya?](https://www.youtube.com/watch?v=hzpz2vksI7Q)  
+![coursehub](coursehub.png "coursehub")  
 
 ___
 ### DG Nodes

@@ -31,16 +31,16 @@ In *Channel Box* select the menu *Edit* -> *Channel Control* or from main menu *
 
 The following colors represent the state of channels:
 
-<i class="fa fa-square" style="color:#5C6874;"></i>
+
 
 | *State*  | *Color*  
 | -------  | -------  
-| Locked  | ![#5C6874](https://via.placeholder.com/15/5C6874/000000?text=+) - Dark Gray  
-| Nonkeyable  | ![#949494](https://via.placeholder.com/15/949494/000000?text=+) - Light Gray  
-| Connected  | ![#F1F1A5](https://via.placeholder.com/15/F1F1A5/000000?text=+) - Yellow  
-| DrivenKey  | ![#5099DA](https://via.placeholder.com/15/5099DA/000000?text=+) - Dark Blue  
-| Constrained  | ![#A3CBF0](https://via.placeholder.com/15/A3CBF0/000000?text=+) - Light Blue  
-| Expression  | ![#CBA5F1](https://via.placeholder.com/15/CBA5F1/000000?text=+) - Purple  
+| Locked  | <i class="fa fa-square" style="color:#5C6874;"></i> - Dark Gray  
+| Nonkeyable  | <i class="fa fa-square" style="color:#949494;"></i> - Light Gray  
+| Connected  | <i class="fa fa-square" style="color:#F1F1A5;"></i> - Yellow  
+| DrivenKey  | <i class="fa fa-square" style="color:#5099DA;"></i> - Dark Blue  
+| Constrained  | <i class="fa fa-square" style="color:#A3CBF0;"></i> - Light Blue  
+| Expression  | <i class="fa fa-square" style="color:#CBA5F1;"></i> - Purple  
 | Keyed On Frame  | ![#CD2729](https://via.placeholder.com/15/CD2729/000000?text=+) - Red  
 | Keyed Off Frame  | ![#DD727A](https://via.placeholder.com/15/DD727A/000000?text=+) - Dark Pink  
 | Key Altered  | ![#FEC9C6](https://via.placeholder.com/15/FEC9C6/000000?text=+) - Light Pink  

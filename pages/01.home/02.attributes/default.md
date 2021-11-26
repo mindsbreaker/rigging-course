@@ -41,7 +41,7 @@ The following colors represent the state of channels:
 | DrivenKey  | <i class="fa fa-square" style="color:#5099DA;"></i> - Dark Blue  
 | Constrained  | <i class="fa fa-square" style="color:#A3CBF0;"></i> - Light Blue  
 | Expression  | <i class="fa fa-square" style="color:#CBA5F1;"></i> - Purple  
-| Keyed On Frame  | ![#CD2729](https://via.placeholder.com/15/CD2729/000000?text=+){.right} - Red  
+| Keyed On Frame  | ![#CD2729](https://via.placeholder.com/15/CD2729/000000?text=+&classes=right) - Red  
 | Keyed Off Frame  | ![#DD727A](https://via.placeholder.com/15/DD727A/000000?text=+) - Dark Pink  
 | Key Altered  | ![#FEC9C6](https://via.placeholder.com/15/FEC9C6/000000?text=+) - Light Pink  
 | Anim Layer  | ![#50B4AD](https://via.placeholder.com/15/50B4AD/000000?text=+) - Dark Green  

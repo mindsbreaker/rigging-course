@@ -2,12 +2,12 @@
 title: 'Scene Nodes'
 ---
 
-Maya has many [types](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-21B83FF0-0435-4087-8C2E-23B420028B71) of nodes that serve any number of different functions.  
+!!!! Maya has many [types](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-21B83FF0-0435-4087-8C2E-23B420028B71) of nodes that serve any number of different functions.  
+!!!! All nodes in Maya are considered **DG** nodes, is really at the heart of Maya, it's like a **DNA**.  
 
 ___
 ### DG Nodes
 
-All nodes in Maya are considered DG nodes, is really at the heart of Maya, it's like a DNA.  
 The relationship between these nodes is organized by the [Dependency Graph](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-51096BC4-32B7-4391-BE39-21641B374745) (DG), which describes the hierarchical relationship between connected nodes.  
 For example, [Utility](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-DA9707D2-8A0D-4911-A010-8274C57D3FD3) nodes are purely DG nodes and cannot be viewed in the viewport.
 

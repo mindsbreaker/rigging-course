@@ -9,6 +9,7 @@ ___
 
 All nodes in Maya are considered DG nodes, is really at the heart of Maya, it's like a DNA.  
 The relationship between these nodes is organized by the [Dependency Graph](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-51096BC4-32B7-4391-BE39-21641B374745) (DG), which describes the hierarchical relationship between connected nodes.  
+For example, the [**Utility**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-DA9707D2-8A0D-4911-A010-8274C57D3FD3) nodes are purely DG nodes and can not be vizualise in the viewport.
 
 !!! The DG can be visualized in the [**Node Editor**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-23277302-6665-465F-8579-9BC734228F69) or the [**Hypergraph**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-5EC40DB1-FBD9-4553-A2FD-6D3508C9B868)  (Connections mode).  
 !!! All DG nodes from scene could be displayed in the [**Outliner**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-4B9A9A3A-83C5-445A-95D5-64104BC47406) by turning **OFF** in the menu **Display** -> **DAG Objects Only**

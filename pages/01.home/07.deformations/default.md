@@ -2,7 +2,6 @@
 title: Deformations
 ---
 
-
 ### Skinning
 
 [Skinning](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-EFE68C08-9ADA-4355-8203-5D1D109DCC82) is the process of binding a modeled surface to a skeleton.  

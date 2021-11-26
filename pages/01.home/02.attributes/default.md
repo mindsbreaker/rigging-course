@@ -31,6 +31,8 @@ In *Channel Box* select the menu *Edit* -> *Channel Control* or from main menu *
 
 The following colors represent the state of channels:
 
+<i class="fa fa-square" style="color:#5C6874;"></i>
+
 | *State*  | *Color*  
 | -------  | -------  
 | Locked  | ![#5C6874](https://via.placeholder.com/15/5C6874/000000?text=+) - Dark Gray  

@@ -37,8 +37,8 @@ Fast create your custom [shelves](https://help.autodesk.com/view/MAYAUL/2020/ENU
 - From a menu ::: presse the keys **`Ctrl`** + **`Shift`** and click **`LMB`** on the menu item.  
 - From a command ::: select the command in the [Command Line](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-4981A0A5-9418-4274-918C-561E33B0102D) and click & drag with **`MMB`** to the shelf tab.  
 - From a script ::: select the script lines in the [Script Editor](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-7C861047-C7E0-4780-ACB5-752CD22AB02E) and click & drag with **`MMB`** to the shelf tab.  
-- From a layout ::: in the [Panel Editor](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-41817CDA-CA8D-43F5-AF22-747F8C7956A2) select a layout in the *'layout'* tab and click *'Add to Shelf'*
-- From a set ::: with the [Quick Selection Set](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-8F030BC7-8F4A-4C01-978B-DECBB807B5B0) tool, name the new set and click *'Add to Shelf'*
+- From a layout ::: in the [Panel Editor](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-41817CDA-CA8D-43F5-AF22-747F8C7956A2) select a layout in the **layout** tab and click **Add to Shelf**
+- From a set ::: with the [Quick Selection Set](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-8F030BC7-8F4A-4C01-978B-DECBB807B5B0) tool, name the new set and click **Add to Shelf**
 
 !!! Use the [Shelf Editor](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-58C25080-5864-4709-BE3A-0543E9D1FCF2) to add double click command & popup menu to your shelves.
 
@@ -46,6 +46,7 @@ ___
 ### Workspaces
 
 Use [Workspaces](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-0384C282-3CA1-4587-9775-F7164D3F6980) to manage your tabbed panels & UI configuration.  
-In the workspace [layout options](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-B69DF865-D749-43C6-9FD7-BC3E454C0311) you can link a *Menu Set*, a *Hotkey Set* and a *VP2.0 Preset*.  
+In the workspace [layout options](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-B69DF865-D749-43C6-9FD7-BC3E454C0311) you can link a **Menu Set**, a **Hotkey Set** and a **VP2.0 Preset**.  
 
-!!! To avoid bad UI manipulation you can freeze your current workspace. Use the lock icon in the upper right corner of Maya's main window.  
+!!! To avoid bad UI manipulation you can freeze your current workspace.  
+!!! Use the **lock** icon in the upper right corner of Maya's main window.  

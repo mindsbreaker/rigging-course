@@ -27,8 +27,7 @@ and choose between *Absolute* or *Relative* transform.
 Use the menu [*Modify*](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-378D7FF6-492F-4DA4-A468-507E6ABF8B58) -> *Reset Transformations* to sets the transformations on the selected objects back to zero.  
 To force zero values on transformations and keep object's current position use the the menu *Modify* -> *Freeze Transformations*.
 
-> :warning: **Warn:**  The reset & freeze operations will affect all descendants.
-> Don't reset & freeze everything everytime, it's not the clean way.  
+! The reset & freeze operations will affect all descendants. Don't reset & freeze everything everytime, it's not the clean way.  
 
 ### Pivot Point
 
@@ -39,5 +38,4 @@ You can reset the selected object's [pivot to center](https://help.autodesk.com/
 To keep your custom pivot placement in a clean way, use the menu  *Modify* -> *Bake Pivot*.  
 The translation & orientation values of the transform node will be updated with the pivot's local offset.  
 
->:bulb: **Tip:** You can change the pivot / manipulator size by pressing **+** or **-** on the keyboard.  
-Use the [snapping](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-E6E866EE-EEE8-4974-A3E7-9AD6ADBB9BCD) mode to help customize pivot placement.
+!!! You can change the pivot / manipulator size by pressing **+** or **-** on the keyboard. Use the [snapping](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-E6E866EE-EEE8-4974-A3E7-9AD6ADBB9BCD) mode to help customize pivot placement.

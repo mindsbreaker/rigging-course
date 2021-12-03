@@ -8,12 +8,14 @@ Transformations change an object’s [position, size, and orientation](https://h
 The transformations are relative to the pivot point of an object (or component)  
 and are performed along or around the [world, object or local](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-A63AC5C8-8822-42AC-827E-164B5266DA03) axes.
 
+___
 ### World vs Object or Local Space
 
 The world space is the absolute position of an object or component in the whole scene.  
 Every object in Maya has its own local coordinate system called object space.  
 Local space is similar to object space, however it uses the origin and axes of the object’s parent node in the hierarchy of objects.  
 
+___
 ### Absolute vs Relative
 
 With **absolute** transform, objects or components are transformed with the scene's origin as the position reference.  
@@ -22,6 +24,7 @@ A **relative** transformation is set with the object's pivot as the position ref
 To set precise values to objects or components, use the input box at the right end of the [Status Line](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-86E5CEDA-4100-40AE-8F95-346206CF8456#WS17956D7ADBC6E73662C853C8117AE30BF5B-7FFE) toolbar,  
 and choose between *Absolute* or *Relative* transform.
 
+___
 ### Reset and Freeze
 
 Use the menu [*Modify*](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-378D7FF6-492F-4DA4-A468-507E6ABF8B58) -> *Reset Transformations* to sets the transformations on the selected objects back to zero.  
@@ -29,6 +32,7 @@ To force zero values on transformations and keep object's current position use t
 
 ! The reset & freeze operations will affect all descendants. Don't reset & freeze everything everytime, it's not the clean way.  
 
+___
 ### Pivot Point
 
 The [pivot point](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-150B390E-840B-4FE3-B8E9-8DEBCE7CEC97) defines the position around which objects or components are rotated and scaled.  

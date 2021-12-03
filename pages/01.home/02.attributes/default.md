@@ -31,18 +31,18 @@ It lets you quickly change [attribute values](https://help.autodesk.com/view/MAY
 
 The following colors represent the state of channels:
 
-- <i class="fa fa-square" style="color:#5C6874;"></i> -> Locked (Dark Gray)
-- <i class="fa fa-square" style="color:#949494;"></i> -> Nonkeyable (Light Gray)
-| Connected | <i class="fa fa-square" style="color:#F1F1A5;"></i> - Yellow 
-| DrivenKey | <i class="fa fa-square" style="color:#5099DA;"></i> - Dark Blue 
-| Constrained | <i class="fa fa-square" style="color:#A3CBF0;"></i> - Light Blue 
-| Expression | <i class="fa fa-square" style="color:#CBA5F1;"></i> - Purple 
-| Keyed On Frame | <i class="fa fa-square" style="color:#CD2729;"></i> - Red 
-| Keyed Off Frame | <i class="fa fa-square" style="color:#DD727A;"></i> - Dark Pink 
-| Key Altered | <i class="fa fa-square" style="color:#FEC9C6;"></i> - Light Pink 
-| Anim Layer | <i class="fa fa-square" style="color:#50B4AD;"></i> - Dark Green 
-| Blended | <i class="fa fa-square" style="color:#ACF1AC;"></i> - Light Green 
-| Muted | <i class="fa fa-square" style="color:#BFA182;"></i> - Brown 
+- <i class="fa fa-square" style="color:#5C6874;"></i>  -->  **Locked**  (Dark Gray)
+- <i class="fa fa-square" style="color:#949494;"></i>  -->  **Nonkeyable**  (Light Gray)
+- <i class="fa fa-square" style="color:#F1F1A5;"></i>  -->  **Connected**  (Yellow)
+- <i class="fa fa-square" style="color:#5099DA;"></i>  -->  **DrivenKey**  (Dark Blue)
+- <i class="fa fa-square" style="color:#A3CBF0;"></i>  -->  **Constrained**   (Light Blue)
+- <i class="fa fa-square" style="color:#CBA5F1;"></i>  -->  **Expression**  (Purple)
+- <i class="fa fa-square" style="color:#CD2729;"></i>  -->  **Keyed On Frame**  (Red)
+- <i class="fa fa-square" style="color:#DD727A;"></i>  -->  **Keyed Off Frame**  (Dark Pink)
+- <i class="fa fa-square" style="color:#FEC9C6;"></i>  -->  **Key Altered**  (Light Pink)
+- <i class="fa fa-square" style="color:#50B4AD;"></i>  -->  **Anim Layer**  (Dark Green)
+- <i class="fa fa-square" style="color:#ACF1AC;"></i>  -->  **Blended**  (Light Green)
+- <i class="fa fa-square" style="color:#BFA182;"></i>  -->  **Muted**  (Brown)
 
 ___
 ### DrivenKey

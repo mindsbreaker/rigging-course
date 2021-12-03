@@ -12,7 +12,7 @@ In addition, complex attributes are supported and can hold data such as string, 
 !!! To add [**custom attributes**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-EC37B453-05D8-4A60-B6A9-57895363759E) (user) to objects, in the [**Attribute Editor**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-67A58D31-4722-4769-B3E6-1A35B5B53BED) select the menu **Attributes** -> **Add Attributes**,  
 !!! or select **Modify** -> **Add Attribute** from the main menu bar.  
 
-Types of value for custom attributes:
+Most used types of value for custom attributes:
 - **Vector**: three floating point values.
 - **Float**: a single floating point value.
 - **Integer**: a single integer value.

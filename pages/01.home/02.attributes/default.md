@@ -27,7 +27,7 @@ The [Channel Box](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-4C95
 It lets you quickly change [attribute values](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-6F862011-4578-40A0-9902-786CA2A44AE5), set keys on keyable attributes, lock or unlock attributes,  
 and create **Expressions** & **Driven Key** on attributes.  
 
-Use the [Channel Control](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-5636D755-8FA3-4E72-83AD-A67956727D55) to manage the *keyable* & *locked* states of attributes.  
+Use the [Channel Control](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-5636D755-8FA3-4E72-83AD-A67956727D55) to manage the keyable & locked states of attributes.  
 In **Channel Box** select the menu **Edit** -> **Channel Control** or from main menu **Windows** -> **General Editors** -> **Channel Control**.  
 
 The following colors represent the state of channels:

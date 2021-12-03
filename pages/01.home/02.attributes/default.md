@@ -58,11 +58,11 @@ In **Channel Box** select the menu **Edit** -> **Connection Editor** or from mai
 !!!  In the **Node Editor** you can connect nodes by creating [**connection lines**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-C6E5588F-40A4-4B1E-9C02-A29DA9A4650F) or by [**dragging**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-591E9EB3-7B11-456D-92C2-0A6B470079FC) them.  
 
 | *Desciption*  | *Hotkey*  
-| ------------  | --------  
-| Toggle Node Selected Pins  | **`P`**  
-| Show Connected Attrs  | **`2`** (keypad)  
-| Show All Attrs  | **`3`** (keypad)  
-| Show Custom Attrs  | **`4`** (keypad)  
-| Cut the connection link  | **`Alt`** + **`Shift`** + **`LMB`** (drag)  
-| Connect default output  | **`MMB`** (drag)  
-| Open the *Connection Editor*  | **`Shift`** + **`MMB`** (drag)  
+|:----------------- |:------------- |
+| Toggle Node Selected Pins | **`P`**  
+| Show Connected Attrs | **`2`** (keypad)  
+| Show All Attrs | **`3`** (keypad)  
+| Show Custom Attrs | **`4`** (keypad)  
+| Cut the connection link | **`Alt`** + **`Shift`** + **`LMB`** (drag)  
+| Connect default output | **`MMB`** (drag)  
+| Open the *Connection Editor* | **`Shift`** + **`MMB`** (drag)  

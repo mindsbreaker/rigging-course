@@ -11,9 +11,9 @@ and are performed along or around the [world, object or local](https://help.auto
 ___
 ### World vs Object / Local Space
 
-The world space is the absolute position of an object or component in the 3D scene.  
+The **world space** is the absolute position of an object or component in the 3D scene.  
 Every object in Maya has its own local coordinate system called object space.  
-Local space is similar to object space, however it uses the origin and axes of the object’s parent node in the hierarchy of objects.  
+**Local space** is similar to **object space**, however it uses the origin and axes of the object’s parent node in the hierarchy of objects.  
 
 ___
 ### Absolute vs Relative

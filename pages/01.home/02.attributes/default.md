@@ -32,8 +32,8 @@ In **Channel Box** select the menu **Edit** -> **Channel Control** or from main 
 
 The following colors represent the state of channels:
 
-| *State* | *Color* |
-|:--------- |:---------- | 
+| *State* | *Color* | | 
+|:--------- |:---------- |:---------- |
 | Locked | <i class="fa fa-square" style="color:#5C6874;"></i> - Dark Gray  
 | Nonkeyable | <i class="fa fa-square" style="color:#949494;"></i> - Light Gray  
 | Connected | <i class="fa fa-square" style="color:#F1F1A5;"></i> - Yellow  

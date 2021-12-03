@@ -34,18 +34,18 @@ The following colors represent the state of channels:
 
 | *State* | *Color* | | 
 |:--------- |:---------- |:---------- |
-| Locked | <i class="fa fa-square" style="color:#5C6874;"></i> - Dark Gray  
-| Nonkeyable | <i class="fa fa-square" style="color:#949494;"></i> - Light Gray  
-| Connected | <i class="fa fa-square" style="color:#F1F1A5;"></i> - Yellow  
-| DrivenKey | <i class="fa fa-square" style="color:#5099DA;"></i> - Dark Blue  
-| Constrained | <i class="fa fa-square" style="color:#A3CBF0;"></i> - Light Blue  
-| Expression | <i class="fa fa-square" style="color:#CBA5F1;"></i> - Purple  
-| Keyed On Frame | <i class="fa fa-square" style="color:#CD2729;"></i> - Red  
-| Keyed Off Frame | <i class="fa fa-square" style="color:#DD727A;"></i> - Dark Pink  
-| Key Altered | <i class="fa fa-square" style="color:#FEC9C6;"></i> - Light Pink  
-| Anim Layer | <i class="fa fa-square" style="color:#50B4AD;"></i> - Dark Green  
-| Blended | <i class="fa fa-square" style="color:#ACF1AC;"></i> - Light Green  
-| Muted | <i class="fa fa-square" style="color:#BFA182;"></i> - Brown  
+| Locked | <i class="fa fa-square" style="color:#5C6874;"></i> - Dark Gray | | 
+| Nonkeyable | <i class="fa fa-square" style="color:#949494;"></i> - Light Gray | | 
+| Connected | <i class="fa fa-square" style="color:#F1F1A5;"></i> - Yellow | | 
+| DrivenKey | <i class="fa fa-square" style="color:#5099DA;"></i> - Dark Blue | | 
+| Constrained | <i class="fa fa-square" style="color:#A3CBF0;"></i> - Light Blue | | 
+| Expression | <i class="fa fa-square" style="color:#CBA5F1;"></i> - Purple | | 
+| Keyed On Frame | <i class="fa fa-square" style="color:#CD2729;"></i> - Red | | 
+| Keyed Off Frame | <i class="fa fa-square" style="color:#DD727A;"></i> - Dark Pink | | 
+| Key Altered | <i class="fa fa-square" style="color:#FEC9C6;"></i> - Light Pink | | 
+| Anim Layer | <i class="fa fa-square" style="color:#50B4AD;"></i> - Dark Green | | 
+| Blended | <i class="fa fa-square" style="color:#ACF1AC;"></i> - Light Green | | 
+| Muted | <i class="fa fa-square" style="color:#BFA182;"></i> - Brown | | 
 
 ___
 ### Connections

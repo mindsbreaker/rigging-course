@@ -61,11 +61,11 @@ ___
 ### Connection
 
 To create links between nodes attributes (input / output connections), we have to use the [Connection Editor](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-2622D368-1DD5-45BA-9560-93626A5751FD) or the [Node Editor](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-23277302-6665-465F-8579-9BC734228F69).  
-
-!!! In the **Channel Box** select the menu **Edit** -> **Connection Editor** or from main menu **Windows** -> **General Editors** -> **Connection Editor**.  
-!!! With the **Node Editor** you can connect nodes by creating [**connection lines**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-C6E5588F-40A4-4B1E-9C02-A29DA9A4650F) or by [**dragging**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-591E9EB3-7B11-456D-92C2-0A6B470079FC) them.  
+In the **Channel Box** select the menu **Edit** -> **Connection Editor** or from main menu **Windows** -> **General Editors** -> **Connection Editor**.  
 
 #### Node Editor
+
+!!! With the **Node Editor** you can connect nodes by creating [**connection lines**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-C6E5588F-40A4-4B1E-9C02-A29DA9A4650F) or by [**dragging**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-591E9EB3-7B11-456D-92C2-0A6B470079FC) them.  
 
 | *Desciption* | *Hotkey* |
 |:---------------- |:------------ |

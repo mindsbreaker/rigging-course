@@ -31,7 +31,7 @@ It lets you quickly change [attribute values](https://help.autodesk.com/view/MAY
 
 The following colors represent the state of channels:
 
-- <i class="fa fa-square" style="color:#5C6874;"></i>  -->  **Locked**  (Dark Gray)
+- <i class="fa fa-square" style="color:#5C6874;"></i>  -->  **Locked** | Dark Gray
 - <i class="fa fa-square" style="color:#949494;"></i>  -->  **Nonkeyable**  (Light Gray)
 - <i class="fa fa-square" style="color:#F1F1A5;"></i>  -->  **Connected**  (Yellow)
 - <i class="fa fa-square" style="color:#5099DA;"></i>  -->  **DrivenKey**  (Dark Blue)

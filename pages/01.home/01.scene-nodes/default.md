@@ -34,7 +34,7 @@ A transform node defines a transformation in space.
 The transformation can be modified by setting the values of `translation`, `rotation` and `scale` attributes.  
 A transform node can have any number of children and at most a single parent.  
 
-!!! You can set the **Inherits Transform** attribute to **OFF** to ignore the transformation of its ancestors in the hierarchy.
+!!! You can set the **Inherits Transform** attribute to **OFF** to ignore the transformation of its ancestors in the hierarchy.  
 !!! You can visualize the transform axis in the viewport by turning **ON** in the menu **Display** -> **Transform Display** -> **Local Rotation Axes**  
 
 #### Shape Node

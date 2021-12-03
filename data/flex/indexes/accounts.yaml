@@ -1,0 +1,9 @@
+version: '1.1'
+timestamp: 1637218008
+count: 1
+index:
+  admin:
+    storage_key: admin
+    storage_timestamp: 1637217875
+    key: admin
+    email: admin@mindsbreaker.com

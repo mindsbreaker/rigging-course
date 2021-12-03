@@ -1,0 +1,35 @@
+enabled: true
+folders:
+  - pages
+  - themes
+  - plugins
+  - config
+  - data
+SyncNotice: null
+sync:
+  on_save: true
+  on_delete: true
+  on_media: true
+  cron_enable: false
+  cron_at: '0 12,23 * * *'
+local_repository: null
+repository: 'https://github.com/mindsbreaker/rigging-course.git'
+no_user: '0'
+user: mindsbreaker
+password: gitsync-def5020060267dd8b43a6e5871fe952c3c74c712191ad8d0cb6c2ead88b3a1be86d9b890dff782c15c352c5b55d8fb030829135ddc9a5093226f89fdafcfbff5de324713e2ffa4cd48134f3a686db678b5461a126561ddd8763b2de3d14fb7b0d70b814550dce391abde1b3611df1d4aa3a9dc1eead90063ee9c978b
+webhook: /_git-sync-579f5ffc9392
+webhook_enabled: '0'
+webhook_secret: 7ffcd4b3728c12cf42d4bdced9d6e630fae72e9fc0371e35
+branch: main
+remote:
+  name: origin
+  branch: main
+git:
+  author: gituser
+  message: '(Grav GitSync) Automatic Commit'
+  name: GitSync
+  email: git-sync@trilby.media
+  bin: git
+  ignore: null
+  private_key: null
+logging: false

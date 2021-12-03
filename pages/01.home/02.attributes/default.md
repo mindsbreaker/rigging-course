@@ -52,7 +52,7 @@ ___
 Setting [Driven Keys](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-2C048635-CDD2-4CF7-820D-A032204C8CE8) is a technique for driving the animation of one object or attribute, using another attribute.  
 With driven keys, you create a dependent link between a pair of attributes. A change in the driver attribute then alters the value of the driven attribute.  
 
-To display the [**Set Driven Key**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-F5429279-8EDB-449C-9E8D-4B5C0210757D) window, select the driven object(s) attribute(s) in the *Channel Box* and in the menu **Edit** -> **Set Driven Key...**, or from the main menu  **Key** -> **Set Driven Key** (from the Animation menu set).
+To display the [Set Driven Key](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-F5429279-8EDB-449C-9E8D-4B5C0210757D) window, select the driven object(s) attribute(s) in the *Channel Box* and in the menu **Edit** -> **Set Driven Key...**, or from the main menu  **Key** -> **Set Driven Key** (from the Animation menu set).
 Select an object with attributes you want to be driven,, listing the selected object as the driven object.  
 
 !!! To fine tune the relationship between the driver and driven attribute, see how to view and edit [**driven key relationships in the Graph Editor**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-E5CA3420-D286-4256-82D3-F148EA4A01DA).

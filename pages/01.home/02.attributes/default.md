@@ -20,6 +20,7 @@ Types of value for custom attributes:
 - **String**: a text string.
 - **Enum**: a list of choices.
 
+___
 ### ChannelBox
 
 The [Channel Box](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-4C954FB2-8B6A-4BBD-9695-DF432616D0D2) is the primary, fastest, and most streamlined tool for editing object attributes.  
@@ -31,8 +32,6 @@ In *Channel Box* select the menu *Edit* -> *Channel Control* or from main menu *
 
 The following colors represent the state of channels:
 
-
-
 | *State*  | *Color*  
 | -------  | -------  
 | Locked  | <i class="fa fa-square" style="color:#5C6874;"></i> - Dark Gray  
@@ -41,13 +40,14 @@ The following colors represent the state of channels:
 | DrivenKey  | <i class="fa fa-square" style="color:#5099DA;"></i> - Dark Blue  
 | Constrained  | <i class="fa fa-square" style="color:#A3CBF0;"></i> - Light Blue  
 | Expression  | <i class="fa fa-square" style="color:#CBA5F1;"></i> - Purple  
-| Keyed On Frame  | ![#CD2729](https://via.placeholder.com/15/CD2729/000000?text=+) - Red  
-| Keyed Off Frame  | ![#DD727A](https://via.placeholder.com/15/DD727A/000000?text=+) - Dark Pink  
-| Key Altered  | ![#FEC9C6](https://via.placeholder.com/15/FEC9C6/000000?text=+) - Light Pink  
-| Anim Layer  | ![#50B4AD](https://via.placeholder.com/15/50B4AD/000000?text=+) - Dark Green  
-| Blended  | ![#ACF1AC](https://via.placeholder.com/15/ACF1AC/000000?text=+) - Light Green  
-| Muted  | ![#BFA182](https://via.placeholder.com/15/BFA182/000000?text=+) - Brown  
+| Keyed On Frame  | <i class="fa fa-square" style="color:#CD2729;"></i> - Red  
+| Keyed Off Frame  | <i class="fa fa-square" style="color:#DD727A;"></i> - Dark Pink  
+| Key Altered  | <i class="fa fa-square" style="color:#FEC9C6;"></i> - Light Pink  
+| Anim Layer  | <i class="fa fa-square" style="color:#50B4AD;"></i> - Dark Green  
+| Blended  | <i class="fa fa-square" style="color:#ACF1AC;"></i> - Light Green  
+| Muted  | <i class="fa fa-square" style="color:#BFA182;"></i> - Brown  
 
+___
 ### Connections
 
 To connect nodes use the [Connection Editor](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-2622D368-1DD5-45BA-9560-93626A5751FD) or the [Node Editor](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-23277302-6665-465F-8579-9BC734228F69).  
@@ -55,7 +55,7 @@ In *Channel Box* select the menu *Edit* -> *Connection Editor* or from main menu
 
 #### Node Editor
 
->:bulb: **Tip:**  In the *Node Editor* you can connect nodes by creating [connection lines](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-C6E5588F-40A4-4B1E-9C02-A29DA9A4650F) or by [dragging](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-591E9EB3-7B11-456D-92C2-0A6B470079FC) them.  
+!!!  In the ***Node Editor*** you can connect nodes by creating [connection lines](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-C6E5588F-40A4-4B1E-9C02-A29DA9A4650F) or by [dragging](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-591E9EB3-7B11-456D-92C2-0A6B470079FC) them.  
 
 | *Desciption*  | *Hotkey*  
 | ------------  | --------  

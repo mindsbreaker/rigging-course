@@ -32,20 +32,20 @@ In **Channel Box** select the menu **Edit** -> **Channel Control** or from main 
 
 The following colors represent the state of channels:
 
-| *State*  | *Color*  
-| -------  | -------  
-| Locked  | <i class="fa fa-square" style="color:#5C6874;"></i> - Dark Gray  
-| Nonkeyable  | <i class="fa fa-square" style="color:#949494;"></i> - Light Gray  
-| Connected  | <i class="fa fa-square" style="color:#F1F1A5;"></i> - Yellow  
-| DrivenKey  | <i class="fa fa-square" style="color:#5099DA;"></i> - Dark Blue  
-| Constrained  | <i class="fa fa-square" style="color:#A3CBF0;"></i> - Light Blue  
-| Expression  | <i class="fa fa-square" style="color:#CBA5F1;"></i> - Purple  
-| Keyed On Frame  | <i class="fa fa-square" style="color:#CD2729;"></i> - Red  
-| Keyed Off Frame  | <i class="fa fa-square" style="color:#DD727A;"></i> - Dark Pink  
-| Key Altered  | <i class="fa fa-square" style="color:#FEC9C6;"></i> - Light Pink  
-| Anim Layer  | <i class="fa fa-square" style="color:#50B4AD;"></i> - Dark Green  
-| Blended  | <i class="fa fa-square" style="color:#ACF1AC;"></i> - Light Green  
-| Muted  | <i class="fa fa-square" style="color:#BFA182;"></i> - Brown  
+| *State* | *Color* |
+|:--------- |:---------- | 
+| Locked | <i class="fa fa-square" style="color:#5C6874;"></i> - Dark Gray  
+| Nonkeyable | <i class="fa fa-square" style="color:#949494;"></i> - Light Gray  
+| Connected | <i class="fa fa-square" style="color:#F1F1A5;"></i> - Yellow  
+| DrivenKey | <i class="fa fa-square" style="color:#5099DA;"></i> - Dark Blue  
+| Constrained | <i class="fa fa-square" style="color:#A3CBF0;"></i> - Light Blue  
+| Expression | <i class="fa fa-square" style="color:#CBA5F1;"></i> - Purple  
+| Keyed On Frame | <i class="fa fa-square" style="color:#CD2729;"></i> - Red  
+| Keyed Off Frame | <i class="fa fa-square" style="color:#DD727A;"></i> - Dark Pink  
+| Key Altered | <i class="fa fa-square" style="color:#FEC9C6;"></i> - Light Pink  
+| Anim Layer | <i class="fa fa-square" style="color:#50B4AD;"></i> - Dark Green  
+| Blended | <i class="fa fa-square" style="color:#ACF1AC;"></i> - Light Green  
+| Muted | <i class="fa fa-square" style="color:#BFA182;"></i> - Brown  
 
 ___
 ### Connections
@@ -57,8 +57,8 @@ In **Channel Box** select the menu **Edit** -> **Connection Editor** or from mai
 
 !!!  In the **Node Editor** you can connect nodes by creating [**connection lines**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-C6E5588F-40A4-4B1E-9C02-A29DA9A4650F) or by [**dragging**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-591E9EB3-7B11-456D-92C2-0A6B470079FC) them.  
 
-| *Desciption*  | *Hotkey*  
-|:----------------- |:------------- |
+| *Desciption* | *Hotkey* |
+|:---------------- |:------------ |
 | Toggle Node Selected Pins | **`P`**  
 | Show Connected Attrs | **`2`** (keypad)  
 | Show All Attrs | **`3`** (keypad)  

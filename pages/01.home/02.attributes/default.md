@@ -59,10 +59,10 @@ In **Channel Box** select the menu **Edit** -> **Connection Editor** or from mai
 
 | *Desciption* | *Hotkey* |
 |:---------------- |:------------ |
-| Toggle Node Selected Pins | **`P`**  
-| Show Connected Attrs | **`2`** (keypad)  
-| Show All Attrs | **`3`** (keypad)  
-| Show Custom Attrs | **`4`** (keypad)  
-| Cut the connection link | **`Alt`** + **`Shift`** + **`LMB`** (drag)  
-| Connect default output | **`MMB`** (drag)  
-| Open the *Connection Editor* | **`Shift`** + **`MMB`** (drag)  
+| Toggle Node Selected Pins | **`P`** 
+| Show Connected Attrs | **`2`** (keypad) 
+| Show All Attrs | **`3`** (keypad) 
+| Show Custom Attrs | **`4`** (keypad) 
+| Cut the connection link | **`Alt`** + **`Shift`** + **`LMB`** (drag) 
+| Connect default output | **`MMB`** (drag) 
+| Open the *Connection Editor* | **`Shift`** + **`MMB`** (drag) 

@@ -28,7 +28,7 @@ It lets you quickly change [attribute values](https://help.autodesk.com/view/MAY
 and create **Expressions** & **Driven Key** on attributes.  
 
 Use the [Channel Control](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-5636D755-8FA3-4E72-83AD-A67956727D55) to manage the keyable & locked states of attributes.  
-In **Channel Box** select the menu **Edit** -> **Channel Control** or from main menu **Windows** -> **General Editors** -> **Channel Control**.  
+In *Channel Box* select the menu **Edit** -> **Channel Control** or from main menu **Windows** -> **General Editors** -> **Channel Control**.  
 
 The following colors represent the state of channels:
 
@@ -51,7 +51,7 @@ ___
 ### Connections
 
 To connect nodes use the [Connection Editor](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-2622D368-1DD5-45BA-9560-93626A5751FD) or the [Node Editor](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-23277302-6665-465F-8579-9BC734228F69).  
-In **Channel Box** select the menu **Edit** -> **Connection Editor** or from main menu **Windows** -> **General Editors** -> **Connection Editor**.  
+In *Channel Box* select the menu **Edit** -> **Connection Editor** or from main menu **Windows** -> **General Editors** -> **Connection Editor**.  
 
 #### Node Editor
 

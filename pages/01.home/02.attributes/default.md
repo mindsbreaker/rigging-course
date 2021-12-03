@@ -24,8 +24,7 @@ ___
 ### ChannelBox
 
 The [Channel Box](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-4C954FB2-8B6A-4BBD-9695-DF432616D0D2) is the primary, fastest, and most streamlined tool for editing object attributes.  
-It lets you quickly change [attribute values](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-6F862011-4578-40A0-9902-786CA2A44AE5), set keys on keyable attributes, lock or unlock attributes,  
-and create **Expressions** & **Driven Key** on attributes.  
+It lets you quickly change [attribute values](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-6F862011-4578-40A0-9902-786CA2A44AE5), set keys on keyable attributes, lock or unlock attributes, and create **Expressions** & **Driven Key** on attributes.  
 
 !!! Use the [**Channel Control**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-5636D755-8FA3-4E72-83AD-A67956727D55) to manage the keyable & locked states of attributes.  
 !!! In the **Channel Box** select the menu **Edit** -> **Channel Control** or from main menu **Windows** -> **General Editors** -> **Channel Control**.  
@@ -48,7 +47,18 @@ The following colors represent the state of channels:
 | Muted | <i class="fa fa-square" style="color:#BFA182;"></i> - Brown 
 
 ___
-### Connections
+### DrivenKey
+
+Setting [Driven Keys](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-2C048635-CDD2-4CF7-820D-A032204C8CE8) is a technique for driving the animation of one object or attribute, using another attribute.  
+With driven keys, you create a dependent link between a pair of attributes. A change in the driver attribute then alters the value of the driven attribute.  
+
+To display the [**Set Driven Key**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-F5429279-8EDB-449C-9E8D-4B5C0210757D) window, select the driven object(s) attribute(s) in the *Channel Box* and in the menu **Edit** -> **Set Driven Key...**, or from the main menu  **Key** -> **Set Driven Key** (from the Animation menu set).
+Select an object with attributes you want to be driven,, listing the selected object as the driven object.  
+
+!!! To fine tune the relationship between the driver and driven attribute, see how to view and edit [**driven key relationships in the Graph Editor**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-E5CA3420-D286-4256-82D3-F148EA4A01DA).
+
+___
+### Connection
 
 To create links between nodes attributes (input / output connections), we have to use the [Connection Editor](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-2622D368-1DD5-45BA-9560-93626A5751FD) or the [Node Editor](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-23277302-6665-465F-8579-9BC734228F69).  
 

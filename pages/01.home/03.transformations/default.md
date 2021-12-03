@@ -9,7 +9,7 @@ The transformations are relative to the pivot point of an object (or component)
 and are performed along or around the [world, object or local](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-A63AC5C8-8822-42AC-827E-164B5266DA03) axes.
 
 ___
-### World vs Object or Local Space
+### World vs Object / Local Space
 
 The world space is the absolute position of an object or component in the whole scene.  
 Every object in Maya has its own local coordinate system called object space.  

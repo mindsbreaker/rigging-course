@@ -1,5 +1,5 @@
 ---
-title: '43D Rigging'
+title: '3D Rigging'
 body_classes: 'title-center title-h1h2'
 media_order: 'SullyRig.jpg,CrocoRig.jpg,AnimationRig.jpg'
 ---

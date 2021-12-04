@@ -3,8 +3,7 @@ title: Resources
 ---
 
 ___
-### Maya Tools
-#### modules, plug-ins & scripts)
+### Maya Tools #### (modules, plug-ins & scripts)
 
 | Name                | Description         
 | --------------------  | --------------------

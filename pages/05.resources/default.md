@@ -12,5 +12,5 @@ title: Resources
 
 ### *Topology References*
 
-[Facial Modeling](https://www.sergicaballer.com/3d-facial-modeling-timelapse/)
-[Head Base Mesh](https://loicpinsard.netlify.app/basemesh/)
+- [Facial Modeling](https://www.sergicaballer.com/3d-facial-modeling-timelapse/)  
+- [Head Base Mesh](https://loicpinsard.netlify.app/basemesh/)  

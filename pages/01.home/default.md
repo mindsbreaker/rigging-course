@@ -6,6 +6,8 @@ media_order: 'SullyRig.jpg,CrocoRig.jpg,AnimationRig.jpg'
 
 # *Setup for Animation*
 
+<img align="left" width="400" height="500" src="SullyRig.jpg" style="border:5px solid black">
+
 ### What is a rig?
 Digital rigs are the virtual bones, joints, and muscles that allow models to move. It’s kind of like the strings on a marionette.  
 A good rig has just the right amount of flexibility. Without the right controls, the animators can’t create the poses they need.  

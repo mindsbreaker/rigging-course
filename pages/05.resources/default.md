@@ -3,7 +3,7 @@ title: Resources
 ---
 
 ___
-### *Maya Modules*
+### Maya Modules
 
 | Module                | Description         
 | --------------------  | --------------------
@@ -11,16 +11,16 @@ ___
 | [Security Tools](https://u.pcloud.link/publink/show?code=XZm44HXZQj7dJGEUb1z4R8pU1q6EyXF2TLJX)  | Official tools to removes malicious scripts from `.ma` & `.mb` files ::: [Autodesk Apps](https://apps.autodesk.com/MAYA/fr/Detail/Index?id=8637238041954239715&os=Win64&appLang=en)  
 
 ___
-### *Topology References*
+### Topology References
 
 - [Facial Modeling](https://www.sergicaballer.com/3d-facial-modeling-timelapse/)  
 - [Head Base Mesh](https://loicpinsard.netlify.app/basemesh/)  
 
 ___
-### *Auto-Rig Systems*
+### Auto-Rig Systems
 
 ___
-### *Rig Examples*
+### Rig Examples
 
 ___
-### *Learnings*
+### Learnings

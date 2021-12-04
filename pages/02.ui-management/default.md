@@ -6,7 +6,7 @@ title: 'UI Management'
 !!!! Use **Save Preferences**  in the main menu **File**.
 
 ___
-### Menus
+### Menu
 
 With the keys **`F2`** >> **`F6`** you can switch between the default [menu sets](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-D90A2BDB-FD05-4528-8A95-C33A02D15129). (Mod / Rig / Anim / FX / Render)  
 Customize your sets with the [Menu Set Editor](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-AAAE82E6-CC81-4D50-A82B-E9A35C2F1D9F).
@@ -30,7 +30,7 @@ Useful & main [marking menus](https://help.autodesk.com/view/MAYAUL/2020/ENU/?gu
 !!! Panel toolbar ::: **`Ctrl + Shift + M`**  
 
 ___
-### Shelves 
+### Shelf
 
 Fast create your custom [shelves](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-4A21F741-C9AC-4AE5-897E-B6F8C68ADF90):
 - From a tool ::: on the tool icon in the [Tool Box](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-B345E162-0149-4E09-AC98-48DCFC227F33) click & drag with **`MMB`** to the shelf tab.  
@@ -43,7 +43,7 @@ Fast create your custom [shelves](https://help.autodesk.com/view/MAYAUL/2020/ENU
 !!! Use the [Shelf Editor](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-58C25080-5864-4709-BE3A-0543E9D1FCF2) to add double click command & popup menu to your shelves.
 
 ___
-### Workspaces
+### Workspace
 
 Use [Workspaces](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-0384C282-3CA1-4587-9775-F7164D3F6980) to manage your tabbed panels & UI configuration.  
 In the workspace [layout options](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-B69DF865-D749-43C6-9FD7-BC3E454C0311) you can link a **Menu Set**, a **Hotkey Set** and a **VP2.0 Preset**.  

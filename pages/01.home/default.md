@@ -6,7 +6,7 @@ media_order: 'SullyRig.jpg,CrocoRig.jpg,AnimationRig.jpg'
 
 # *Setup for Animation*
 
-<img align="left" width="400" height="400" src="CrocoRig.jpg#test">
+<img align="left" width="400" height="400" src="CrocoRig.jpg"#test>
 img[src~="test"] {
    border: 5px solid black;
 }

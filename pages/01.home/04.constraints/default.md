@@ -11,8 +11,8 @@ An object with a parent constraint does not behave the same as an object with a 
 When a [Parent](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-29785337-D109-48C5-AFC4-8A7A1D0C246F) constraint is used, rotating the target object(s) affects the constrained object’s rotation along the **world** axis.  
 When a [Point](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-79F8E9DC-72B9-4465-8D77-8A69F61D313A) and [Orient](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-ABED0435-54C5-44BE-9E1B-9A2975133695) constraint are used, rotating the target object(s) affects the constrained object’s rotation along its **local** axis.  
 
-!!! To keep offset in the world between constrained & target objects, check the **Maintain Offset** parameter in the constraint option box. (checked by default)  
-!!! .<img src="https://www.mindsbreaker.com/rigging/user/pages/01.home/04.constraints/MaintainOffset.png" style="float:left;margin:5px 0px">
+!!! To keep offset in the world between constrained & target objects, check the **Maintain Offset** parameter in the constraint option box.
+!!!  <- checked by default <img src="https://www.mindsbreaker.com/rigging/user/pages/01.home/04.constraints/MaintainOffset.png" style="float:left;margin:5px 0px">
 
 ! An object can't be constrained to one of it's children, otherwise you'd get a cycle.  
 ! .<img src="https://www.mindsbreaker.com/rigging/user/pages/01.home/04.constraints/CycleWarning.jpg" style="float:left;margin:5px 0px">

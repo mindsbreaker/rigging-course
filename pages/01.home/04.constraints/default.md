@@ -1,6 +1,6 @@
 ---
 title: Constraints
-media_order: 'CycleWarning.jpg,MaintainOffset.png'
+media_order: MaintainOffset.png
 ---
 
 With [constraints](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-FA047B7D-41AD-4643-9D10-BB1F3B397B4D), you can drive the position, orientation, and scale of one object with the transformations of another object.  

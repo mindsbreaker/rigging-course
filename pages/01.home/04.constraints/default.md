@@ -1,6 +1,6 @@
 ---
 title: Constraints
-media_order: MaintainOffset.png
+media_order: 'MaintainOffset.png,CycleWarning.jpg'
 ---
 
 With [constraints](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-FA047B7D-41AD-4643-9D10-BB1F3B397B4D), you can drive the position, orientation, and scale of one object with the transformations of another object.  
@@ -15,4 +15,4 @@ When a [Point](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-79F8E9D
 !!!  (checked by default) <img src="constraints/MaintainOffset.png" style="float:left;margin:5px 5px">
 
 ! An object can't be constrained to one of it's children, otherwise you'd get a cycle.  
-! .<img src="CycleWarning.jpg" style="float:left;margin:5px 0px">
+! .<img src="constraints/CycleWarning.jpg" style="float:left;margin:5px 0px">

@@ -3,7 +3,7 @@ title: '3D Rigging'
 body_classes: 'title-center title-h1h2'
 ---
 
-## *Setup for Animation*
+# *Setup for Animation*
 
 ### What is a rig?
 Digital rigs are the virtual bones, joints, and muscles that allow models to move. It’s kind of like the strings on a marionette.  

@@ -1,7 +1,7 @@
 ---
 title: '3D Rigging'
 body_classes: 'title-center title-h1h2'
-media_order: CrocoRig.jpg
+media_order: 'CrocoRig.jpg,CycleWarning.jpg,MaintainOffset.png'
 ---
 
 ___

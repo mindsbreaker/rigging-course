@@ -31,7 +31,7 @@ ___
 
 <br>
 ___
-#### ***Display***
+### Display
 
 | `HOTKEY` | `DESCRIPTION`
 | -------- | -----------
@@ -48,7 +48,7 @@ ___
 
 <br>
 ___
-#### ***Edit***
+### Edit
 
 | `HOTKEY` | `DESCRIPTION`
 | -------- | -----------
@@ -66,7 +66,7 @@ ___
 
 <br>
 ___
-### ***Tools***
+### Tools
 
 | `HOTKEY` | `DESCRIPTION`
 | -------- | -----------
@@ -80,7 +80,7 @@ ___
 
 <br>
 ___
-### ***Pivot & Snapping***
+### Pivot & Snapping
 
 | `HOTKEY` | `DESCRIPTION`
 | -------- | -----------
@@ -93,7 +93,7 @@ ___
 
 <br>
 ___
-### ***Components***
+### Components
 
 | `HOTKEY` | `DESCRIPTION`
 | -------- | -----------
@@ -112,7 +112,7 @@ ___
 
 <br>
 ___
-### ***Anim***
+### Anim
 
 | `HOTKEY` | `DESCRIPTION`
 | -------- | -----------
@@ -124,7 +124,7 @@ ___
 
 <br>
 ___
-### ***Pick Walk***  (hierarchy)
+### Pick Walk (hierarchy)
 
 | `HOTKEY` | `DESCRIPTION`
 | -------- | -----------

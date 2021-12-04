@@ -6,7 +6,7 @@ title: Shortcuts
 
 <br>
 ___
-#### ***Scene***
+### *Scene*
 
 | `HOTKEY` | `DESCRIPTION`
 | -------- | -----------
@@ -19,7 +19,7 @@ ___
 
 <br>
 ___
-#### ***Menu***
+### *Menu*
 
 | `HOTKEY` | `DESCRIPTION`
 | -------- | -----------

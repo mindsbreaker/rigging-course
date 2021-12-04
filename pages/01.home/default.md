@@ -1,10 +1,12 @@
 ---
 title: '3D Rigging'
 body_classes: 'title-center title-h1h2'
-media_order: 'SullyRig.jpg,CrocoRig.jpg,AnimationRig.jpg'
+media_order: CrocoRig.jpg
 ---
 
 ___
+## *Setup for Animation*
+
 <img src="CrocoRig.jpg" width="400" height="400" style="float:left;border:2px solid grey;margin:0px 50px">
 
 ### What is a rig?

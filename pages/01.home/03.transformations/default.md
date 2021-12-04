@@ -42,4 +42,5 @@ You can reset the selected object's [pivot to center](https://help.autodesk.com/
 To keep your custom pivot placement in a clean way, use the menu  **Modify** -> **Bake Pivot**.  
 The translation & orientation values of the transform node will be updated with the pivot's local offset.  
 
-!!! You can change the pivot / manipulator size by pressing **+** or **-** on the keyboard. Use the [**snapping**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-E6E866EE-EEE8-4974-A3E7-9AD6ADBB9BCD) mode to help customize pivot placement.
+!!! You can change the pivot / manipulator size by pressing **+** or **-** on the keyboard.  
+!!! Use the [**snapping**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-E6E866EE-EEE8-4974-A3E7-9AD6ADBB9BCD) mode to help customize pivot placement.

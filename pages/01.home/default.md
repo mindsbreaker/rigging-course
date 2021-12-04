@@ -4,8 +4,7 @@ body_classes: 'title-center title-h1h2'
 media_order: 'SullyRig.jpg,CrocoRig.jpg,AnimationRig.jpg'
 ---
 
-
-<img src="SullyRig.jpg" width="400" height="500" style="float:left;border:3px solid lightblue;margin:20px 50px">
+<img src="SullyRig.jpg" width="400" height="500" style="float:left;border:3px solid lightblue;margin:0px 50px">
 
 ### What is a rig?
 Digital rigs are the virtual bones, joints, and muscles that allow models to move. It’s kind of like the strings on a marionette.  

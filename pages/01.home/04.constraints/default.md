@@ -1,6 +1,6 @@
 ---
 title: Constraints
-media_order: CycleWarning.jpg
+media_order: 'CycleWarning.jpg,MaintainOffset.png'
 ---
 
 With [constraints](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-FA047B7D-41AD-4643-9D10-BB1F3B397B4D), you can drive the position, orientation, and scale of one object with the transformations of another object.  
@@ -12,7 +12,7 @@ When a [Parent](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-297853
 When a [Point](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-79F8E9DC-72B9-4465-8D77-8A69F61D313A) and [Orient](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-ABED0435-54C5-44BE-9E1B-9A2975133695) constraint are used, rotating the target object(s) affects the constrained object’s rotation along its **local** axis.  
 
 !!! To keep offset in the world between constrained & target objects, check the **Maintain Offset** parameter in the constraint option box. (checked by default)  
-!!! ![Maintain Offset](maintain_offset.png)
+!!! .<img src="https://www.mindsbreaker.com/rigging/user/pages/01.home/04.constraints/MaintainOffset.jpg" style="float:left;margin:5px 0px">
 
-!! An object can't be constrained to one of it's children, otherwise you'd get a cycle.  
-!! . <img src="https://www.mindsbreaker.com/rigging/user/pages/01.home/04.constraints/CycleWarning.jpg" style="float:left;margin:5px 5px">
+! An object can't be constrained to one of it's children, otherwise you'd get a cycle.  
+! .<img src="https://www.mindsbreaker.com/rigging/user/pages/01.home/04.constraints/CycleWarning.jpg" style="float:left;margin:5px 0px">

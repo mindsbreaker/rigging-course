@@ -1,12 +1,12 @@
 ---
-title: '3D Rigging'
+title: '43D Rigging'
 body_classes: 'title-center title-h1h2'
 media_order: 'SullyRig.jpg,CrocoRig.jpg,AnimationRig.jpg'
 ---
 
 # *Setup for Animation*
 
-![Sample Image](SullyRig.jpg?forceResize=200,300)
+![Sample Image](SullyRig.jpg?forceResize=400,500)
 
 ### What is a rig?
 Digital rigs are the virtual bones, joints, and muscles that allow models to move. It’s kind of like the strings on a marionette.  

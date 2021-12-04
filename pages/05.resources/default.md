@@ -15,3 +15,12 @@ ___
 
 - [Facial Modeling](https://www.sergicaballer.com/3d-facial-modeling-timelapse/)  
 - [Head Base Mesh](https://loicpinsard.netlify.app/basemesh/)  
+
+___
+### *Auto-Rig Systems*
+
+___
+### *Rig Examples*
+
+___
+### *Learnings*

@@ -15,4 +15,4 @@ When a [Point](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-79F8E9D
 !!! ![Maintain Offset](maintain_offset.png)
 
 !! An object can't be constrained to one of it's children, otherwise you'd get a cycle.  
-!! ![Cycle warning](cycle_warning.jpg)
+!! <img src="cycle_warning.jpg" style="float:left;border:2px solid grey;margin:0px 5px">

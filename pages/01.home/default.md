@@ -7,7 +7,7 @@ media_order: CrocoRig.jpg
 ___
 ## *Setup for Animation*
 
-<img src="CrocoRig.jpg" width="400" height="400" style="float:left;border:2px solid grey;margin:0px 50px">
+<img src="CrocoRig.jpg" width="400" height="400" style="float:left;border:2px solid grey;margin:0px 30px">
 
 ### What is a rig?
 Digital rigs are the virtual bones, joints, and muscles that allow models to move. It’s kind of like the strings on a marionette.  

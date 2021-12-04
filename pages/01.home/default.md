@@ -5,8 +5,6 @@ media_order: CrocoRig.jpg
 ---
 
 ___
-## *Setup for Animation*
-
 <img src="CrocoRig.jpg" width="400" height="400" style="float:left;border:2px solid grey;margin:0px 30px">
 
 ### What is a rig?
@@ -17,3 +15,4 @@ Too much flexibility makes posing the model too time consuming.
 ### What does a rigger do?
 Riggers start with a virtual 3D model for a character. They study how a character needs to move based on the story.  
 Riggers break down those motions into individual elements and create the hundreds of control points that animators will use to create poses.  
+

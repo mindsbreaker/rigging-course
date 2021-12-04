@@ -4,6 +4,7 @@ body_classes: 'title-center title-h1h2'
 media_order: 'SullyRig.jpg,CrocoRig.jpg,AnimationRig.jpg'
 ---
 
+___
 <img src="SullyRig.jpg" width="400" height="500" style="float:left;border:3px solid lightblue;margin:0px 50px">
 
 ### What is a rig?

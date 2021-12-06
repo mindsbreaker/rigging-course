@@ -16,6 +16,15 @@ ___
 | *Charcoal Editor* | Maya scripting editor evolved -> [Webpage](https://zurbrigg.com/charcoal-editor-2)  
 
 ___
+### What's Next
+
+| Name                 | Description         
+| :--------------------  | :--------------------
+| *Hive Autorigger* | Modular auto-rigger for artists and production rigger/TDs -> [Webpage](https://create3dcharacters.com/maya-hive-autorigger)  
+| *Contour Rig Tools* | Revolutionary spline-based rigging for Maya -> [Webpage](https://www.notionalpipe.com/)  
+| *Ragdoll Dynamics* | Animate with physics -> [Webpage](https://ragdolldynamics.com/)  
+
+___
 ### Rig Examples
 
 ___

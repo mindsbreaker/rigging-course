@@ -22,6 +22,4 @@ Maya offers three [methods](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid
 #### Edit Weights
 
 You can precisly modify the values of individual vertex weights using the [Component Editor](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-B698CC5D-2771-488E-98E8-2D4E31DB3B2D).  
-The *Component Editor* lets you easily set specific skin point weights to particular values.
-
 If you want to shape the deformation directly you can instead paint weights with the [Paint Skin Weights Tool](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-99189E9D-237F-471E-A02C-BE6593B4828B).

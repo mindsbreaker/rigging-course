@@ -21,7 +21,7 @@ Most used types of value for custom attributes:
 - **Enum**: a list of choices.
 
 ___
-### ChannelBox
+### Channel Box
 
 The [Channel Box](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-4C954FB2-8B6A-4BBD-9695-DF432616D0D2) is the primary, fastest, and most streamlined tool for editing object attributes.  
 It lets you quickly change [attribute values](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-6F862011-4578-40A0-9902-786CA2A44AE5), set keys on keyable attributes, lock or unlock attributes, and create **Expressions** & **Driven Key** on attributes.  
@@ -45,7 +45,7 @@ The following colors represent the state of channels:
 - <i class="fa fa-square" style="color:#BFA182;"></i>  -->  **Muted**  (Brown)
 
 ___
-### DrivenKey
+### Driven Key
 
 Setting [Driven Keys](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-2C048635-CDD2-4CF7-820D-A032204C8CE8) is a technique for driving the animation of one object or attribute, using another attribute.  
 With driven keys, you create a dependent link between a pair of attributes. A change in the driver attribute then alters the value of the driven attribute.  

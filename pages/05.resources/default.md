@@ -8,7 +8,7 @@ ___
 | Name                 | Description         
 | :--------------------  | :--------------------
 | [*Bonus Tools*](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/tools/bonusTools.zip?raw=true) | Official collection of useful Maya scripts and plug-ins -> [Autodesk Apps](https://apps.autodesk.com/en) & [Overview](https://www.youtube.com/watch?v=JX6CBJXErQE&list=PLRhyUhUvvnOTWQP527tK_msQwDgstzIc_)
-| [*Security Tools*](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/tools/mayaScanner.zip?raw=true) | Official tools to removes malicious scripts from `.ma` & `.mb` files -> [Autodesk Apps](https://apps.autodesk.com/MAYA/en)  
+| [*Security Tools*](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/tools/mayaScanner.zip?raw=true) | Official tools to removes malicious scripts from `.ma` & `.mb` files -> [Autodesk Apps](https://apps.autodesk.com/MAYA/en/Detail/Index?id=8637238041954239715&appLang=en&os=Linux)  
 | [*mGear Framework*](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/tools/mGear.zip?raw=true) | Open source rigging and animation framework -> [Webpage](http://www.mgear-framework.com/) / [Youtube](https://www.youtube.com/c/mGearRiggingFramework) / [Github](https://github.com/mgear-dev)
 | [*ngSkinTools*](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/tools/ngSkinTools.zip?raw=true) | Skinning plugin introducing new concepts to character skinning -> [Webpage](https://www.ngskintools.com)  
 | [*Studio Library*](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/tools/studioLibrary.zip?raw=true) | Open source tool for managing poses and animation in Maya -> [Github](https://github.com/krathjen/studiolibrary)  

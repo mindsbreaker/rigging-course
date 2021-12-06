@@ -15,7 +15,7 @@ ___
 | *SHAPES* | Complet toolset for creating and editing blend shape targets -> [Webpage](https://www.braverabbit.com/shapes/)  
 | *Charcoal Editor* | Maya scripting editor evolved -> [Webpage](https://zurbrigg.com/charcoal-editor-2)  
 
-#### What's Next
+#### What's Next ...
 
 | Name                 | Description         
 | :--------------------  | :--------------------

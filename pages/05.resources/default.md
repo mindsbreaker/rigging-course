@@ -25,10 +25,10 @@ ___
 
 ___
 ### Rig Examples
+- [Mecha Mechs Proxy](https://friggingawesome.gumroad.com/l/mecha-mechs-proxy)
 
 ___
 ### Topology References
-
 - [Facial Modeling](https://www.sergicaballer.com/3d-facial-modeling-timelapse/)  
 - [Head Base Mesh](https://loicpinsard.netlify.app/basemesh/)  
 

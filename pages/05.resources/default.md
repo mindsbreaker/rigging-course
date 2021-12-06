@@ -27,6 +27,7 @@ ___
 ### Rig Examples
 - [Mecha Mechs Proxy](https://friggingawesome.gumroad.com/l/mecha-mechs-proxy)
 - [Tomas Rig](https://temaroots.gumroad.com/l/qMADI)
+- [Agora Community Assets](https://agora.community/assets)
 
 ___
 ### Topology References

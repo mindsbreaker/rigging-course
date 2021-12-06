@@ -17,7 +17,7 @@ Maya offers three [methods](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid
 - Dual Quaternion
 - Weight Blended (blend of both methods).
 
-!!! The **Dual Quaternion** method has better deformation and keep model's volume.  
+!!! The **Dual Quaternion** method better preserves the volume of the model when a joint is oriented.  
 
 #### Edit Weights
 

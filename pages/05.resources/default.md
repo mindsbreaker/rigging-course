@@ -12,8 +12,8 @@ ___
 | [**mGear Framework**](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/tools/mGear.zip?raw=true) | Open source rigging and animation framework -> [Webpage](http://www.mgear-framework.com/) / [Youtube](https://www.youtube.com/c/mGearRiggingFramework) / [Github](https://github.com/mgear-dev)
 | [**ngSkinTools**](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/tools/ngSkinTools.zip?raw=true) | Skinning plugin introducing new concepts to character skinning -> [Webpage](https://www.ngskintools.com)  
 | [**Studio Library**](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/tools/studioLibrary.zip?raw=true) | Open source tool for managing poses and animation in Maya -> [Github](https://github.com/krathjen/studiolibrary)  
-| **SHAPES** | Complet toolset for creating and editing blend shape targets -> [Webpage](https://www.braverabbit.com/shapes/)  
-| **Charcoal Editor** | Maya scripting editor evolved -> [Webpage](https://zurbrigg.com/charcoal-editor-2)  
+| SHAPES | Complet toolset for creating and editing blend shape targets -> [Webpage](https://www.braverabbit.com/shapes/)  
+| Charcoal Editor | Maya scripting editor evolved -> [Webpage](https://zurbrigg.com/charcoal-editor-2)  
 
 ___
 ### Rig Examples

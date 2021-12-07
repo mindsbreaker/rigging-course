@@ -38,9 +38,11 @@ A transform node can have any number of children and at most a single parent.
 !!! You can visualize the transform axis in the viewport by turning **ON** in the menu **Display** -> **Transform Display** -> **Local Rotation Axes**  
 
 #### Shape Node
-Geometry data is stored in this node, such as mesh, nurbsCurve, locator, ...  
-They don't contain parenting or transform informations.  
-Shape nodes must have a transformation node as a parent to define where the geometry is located in space.  
+Geometry & surface data is stored in this node, such as mesh, nurbs curve & surface, locator, ...  
+Example for a geometry object, the shape node represents the mesh itself - the vertexes, the faces, the normals, ...  
+
+Shape nodes don't contain parenting or transformation informations.  
+Shape nodes must have a transformation node as a parent to define where the object is located in space.  
 
 ___
 ### DAG Path

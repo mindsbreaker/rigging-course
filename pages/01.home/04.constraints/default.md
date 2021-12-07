@@ -14,5 +14,11 @@ When a [Point](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-79F8E9D
 !!! To keep offset in the world between constrained & target objects, check the **Maintain Offset** parameter in the constraint option box.  
 !!!  (checked by default) <img src="constraints/MaintainOffset.png" style="float:left;margin:5px 5px">
 
+___
+### Most Used
+
+___
+### Pin to Shape
+
 ! An object can't be constrained to one of it's children, otherwise you'd get a cycle.  
 ! .<img src="constraints/CycleWarning.jpg" style="float:left;margin:5px 0px">

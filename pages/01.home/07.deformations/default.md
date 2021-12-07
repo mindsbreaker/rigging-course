@@ -2,11 +2,12 @@
 title: Deformations
 ---
 
-The [deformation effects](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Maya/files/GUID-B1AB118B-D620-4A74-88AA-11E8569D0E60-htm.html) are only aply on the shape node. When you apply a deformer, Maya makes a copy of the shape (tagged as an *"original”* or *"intermediate"*).  
-This duplicated shape **"Orig"** is connected to the deformer, and the result is plugged into the shape node.  
-
+The [deformer effects](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-B1AB118B-D620-4A74-88AA-11E8569D0E60) are only apply on the shape nodes.  
 There are many different types of deformers, each to apply a different effect, but probably the most common one is the *skinCluster*.  
 This is used when you skin a character to a joint hierarchy. In the skinCluster node, weights are applied to the vertexes corresponding to which joints influence it.  
+
+!!! When you apply a deformer, Maya makes a copy of the shape (tagged as an *"original”* or *"intermediate"*).  
+!!! This duplicated shape **"Orig"** is connected to the deformer, and the result is plugged into the shape node.  
 
 ___
 ### Skinning

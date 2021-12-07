@@ -4,7 +4,6 @@ title: Shortcuts
 
 !!!! Check official Maya shortcuts ::: [**Full**](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/Maya-KeyboardShortcuts/files/GUID-840DB5D4-05DB-4340-9A59-D2C7B2343EA4-htm.html) | [**Short**](https://www.autodesk.com/shortcuts/maya)
 
-<br>
 ___
 ### Scene
 
@@ -17,7 +16,6 @@ ___
 | **Ctrl + R** | Create file reference
 | **Ctrl + Q** | Exit Maya
 
-<br>
 ___
 ### Menu
 

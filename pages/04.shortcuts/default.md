@@ -27,7 +27,6 @@ ___
 | **Ctrl + Shift + M** | Show/hide panel toolbar
 | **Space** | Show the hotbox (hold key)
 
-<br>
 ___
 ### Display
 
@@ -44,7 +43,6 @@ ___
 | **Ctrl + Shift + H** | Show last hidden
 | **Shift + I** or **Ctrl + 1** | Toggle isolate selected in viewport
 
-<br>
 ___
 ### Edit
 
@@ -62,7 +60,6 @@ ___
 | **Ctrl + Shift + D** | Duplicate special
 | **Shift + D** | Duplicate with transform
 
-<br>
 ___
 ### Tools
 
@@ -76,7 +73,6 @@ ___
 | **T** | Manipulator tool
 | **Ctrl + T** | Universal manipulator tool
 
-<br>
 ___
 ### Pivot & Snapping
 
@@ -89,7 +85,6 @@ ___
 | **X** | Snap to grids (hold key)
 | **V** | Snap to points (hold key)
 
-<br>
 ___
 ### Components
 
@@ -108,7 +103,6 @@ ___
 | **Ctrl + F11** | Convert polygon selection to Faces
 | **Ctrl + F12** | Convert polygon selection to UVs
 
-<br>
 ___
 ### Anim
 
@@ -120,7 +114,6 @@ ___
 | **Shift + R** | Set key for Scale
 | **Shift + S** & **LMB** | Keyframe marking menu (hold)
 
-<br>
 ___
 ### Pick Walk (hierarchy)
 

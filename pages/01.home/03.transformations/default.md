@@ -5,8 +5,7 @@ title: Transformations
 3D positions and transformations exist within coordinate systems called spaces.  
 Transformations change an object’s [position, size, and orientation](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-9622730D-3D21-451C-8BEE-E01BCC979F91) without changing its shape.  
 
-The transformations are relative to the pivot point of an object (or component)  
-and are performed along or around the [world, object or local](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-A63AC5C8-8822-42AC-827E-164B5266DA03) axes.
+The transformations are relative to the pivot point of an object (or component) and are performed along or around the [world, object or local](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-A63AC5C8-8822-42AC-827E-164B5266DA03) axes.
 
 ___
 ### World vs Object / Local Space

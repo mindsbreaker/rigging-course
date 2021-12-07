@@ -7,6 +7,7 @@ media_order: nodes_video_thumbnail.png
 !!!! All nodes in Maya are considered **DG** nodes, is really at the heart of Maya, it's like a **DNA**.  
 !!!! <i class="fa fa-play-circle"></i> [**Introduction to nodes and connections in Maya**](https://www.youtube.com/watch?v=hzpz2vksI7Q)  
 
+<br>
 ___
 ### DG Nodes
 
@@ -16,6 +17,7 @@ For example, [Utility](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID
 !!! The DG can be visualized in the [**Node Editor**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-23277302-6665-465F-8579-9BC734228F69) or the [**Hypergraph**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-5EC40DB1-FBD9-4553-A2FD-6D3508C9B868)  (Connections mode).  
 !!! All DG nodes from scene could be displayed in the [**Outliner**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-4B9A9A3A-83C5-445A-95D5-64104BC47406) by turning **OFF** in the menu **Display** -> **DAG Objects Only**
 
+<br>
 ___
 ### DAG Nodes
 
@@ -42,6 +44,7 @@ Geometry data is stored in this node, such as mesh, nurbsCurve, locator, ...
 They don't contain parenting or transform informations.  
 Shape nodes must have a transformation node as a parent to define where the geometry is located in space.  
 
+<br>
 ___
 ### DAG Path
 

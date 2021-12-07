@@ -2,9 +2,11 @@
 title: Deformations
 ---
 
-A deformer effects the shape node. When you apply a deformer, Maya makes a copy of the mesh (tagged as an “original”), feeds that into the deformer, and the result is plugged into the shape node. The deformer deforms the original mesh.
-There are many different types of deformers, each to apply a different effect, but probably the most common one is the skinCluster. 
-This is used when you skin a character to a joint hierarchy. In the skinCluster node, weights are applied to the vertexes corresponding to which joints influence it. You have a vertex that’s weighted to jointA 100%, you move jointA, that vertex will move with the joint as if it was parented to it.
+A deformer effects the shape node. When you apply a deformer, Maya makes a copy of the shape (tagged as an *"original”* or *"intermediate"*).  
+This duplicated shape **"Orig"** is connected to the deformer, and the result is plugged into the shape node.  
+
+There are many different types of deformers, each to apply a different effect, but probably the most common one is the skinCluster.  
+This is used when you skin a character to a joint hierarchy. In the skinCluster node, weights are applied to the vertexes corresponding to which joints influence it.  
 
 ___
 ### Skinning

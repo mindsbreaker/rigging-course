@@ -7,6 +7,7 @@ If you are creating a skeleton for a human biped, you would place joints at all 
 (shoulders, knees, elbows, spine and so on)
 The [skeleton hierarchy](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-DC88B9A7-593B-427E-9BED-4D7822B0E0B6) is composed of a series of joints and joints chains with hierarchical relationships.  
 
+___
 ### Joints and bones
 
 [Joints](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-1B59334F-2605-44C3-B584-A55B239A2CBE) are the building blocks of skeletons and their points of articulation.  

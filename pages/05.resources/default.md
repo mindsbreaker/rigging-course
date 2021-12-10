@@ -30,9 +30,11 @@ ___
 - [Agora Community Assets](https://agora.community/assets)
 
 ___
-### Topology References
+### References
+- [Topology Guides](https://topologyguides.com/)
 - [Facial Modeling](https://www.sergicaballer.com/3d-facial-modeling-timelapse/)  
 - [Head Base Mesh](https://loicpinsard.netlify.app/basemesh/)  
+- [Anatomy Next](https://www.anatomy.net/)
 
 ___
 ### Learnings

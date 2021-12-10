@@ -31,10 +31,13 @@ ___
 
 ___
 ### References
-- [Topology Guides](https://topologyguides.com/)
+- [HippyDrome’s Art of Moving Points](https://www.riggingdojo.com/free-model-from-hippydrome-com/)
 - [Facial Modeling](https://www.sergicaballer.com/3d-facial-modeling-timelapse/)  
 - [Head Base Mesh](https://loicpinsard.netlify.app/basemesh/)  
+- [Topology Guides](https://topologyguides.com/)
 - [Anatomy Next](https://www.anatomy.net/)
 
 ___
 ### Learnings
+- [Rigging Dojo](https://www.riggingdojo.com/2021/02/01/learning-character-rigging/)
+- [mGear Data Centric Rigging](https://www.youtube.com/playlist?list=PL9LaIDCCDjfimQVcMdh0rG0MPabPG9FK-)

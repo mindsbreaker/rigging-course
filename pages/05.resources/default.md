@@ -31,7 +31,7 @@ ___
 
 ___
 ### References
-- [HippyDrome’s Art of Moving Points](https://www.riggingdojo.com/free-model-from-hippydrome-com/)
+- [HippyDrome’s Model](https://www.riggingdojo.com/free-model-from-hippydrome-com/)
 - [Facial Modeling](https://www.sergicaballer.com/3d-facial-modeling-timelapse/)  
 - [Head Base Mesh](https://loicpinsard.netlify.app/basemesh/)  
 - [Topology Guides](https://topologyguides.com/)
@@ -42,3 +42,4 @@ ___
 - [Rigging Dojo](https://www.riggingdojo.com/2021/02/01/learning-character-rigging/)
 - [mGear Data Centric Rigging](https://www.youtube.com/playlist?list=PL9LaIDCCDjfimQVcMdh0rG0MPabPG9FK-)
 - [Realtime Creature Rigging Workshop](https://www.youtube.com/playlist?list=PL8hZ6hQCGHMUIOilrww1u-mo0sTwYs2W5)
+- [Introduction to Python Scripting in Maya](https://www.youtube.com/playlist?list=PL-4p6ppgFOkWtUtcp46Z_AufwVP0CougD)

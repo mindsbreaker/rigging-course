@@ -26,7 +26,8 @@ ___
 ___
 ### Maya Scripts
 - [Sticky Mod](https://friggingawesome.gumroad.com/l/sticky-mod)
-
+- [Ribbonizer](https://orkhan.gumroad.com/l/ribbonizer)
+- [SkinTools](https://peerke.gumroad.com/l/SkinTools_v5)
 
 ___
 ### Rig Examples

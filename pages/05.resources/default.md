@@ -24,7 +24,13 @@ ___
 | *Ragdoll Dynamics* | Animate with physics -> [Webpage](https://ragdolldynamics.com/)  
 
 ___
+### Maya Scripts
+- [Sticky Mod](https://friggingawesome.gumroad.com/l/sticky-mod)
+
+
+___
 ### Rig Examples
+- [Lego Wall-E Rigs](https://robertjoosten.gumroad.com/l/lego-wall-e-rigs)
 - [Mecha Mechs Proxy](https://friggingawesome.gumroad.com/l/mecha-mechs-proxy)
 - [Tomas Rig](https://temaroots.gumroad.com/l/qMADI)
 - [Agora Community Assets](https://agora.community/assets)

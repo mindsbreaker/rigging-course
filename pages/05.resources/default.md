@@ -39,7 +39,7 @@ ___
 
 ___
 ### Learnings
-- [Rigging Dojo](https://www.riggingdojo.com/2021/02/01/learning-character-rigging/)
-- [mGear Data Centric Rigging](https://www.youtube.com/playlist?list=PL9LaIDCCDjfimQVcMdh0rG0MPabPG9FK-)
+- [Rigging Dojo](https://www.riggingdojo.com/blog/)
+- [Data Centric Rigging](https://www.youtube.com/playlist?list=PL9LaIDCCDjfimQVcMdh0rG0MPabPG9FK-)
 - [Realtime Creature Rigging Workshop](https://www.youtube.com/playlist?list=PL8hZ6hQCGHMUIOilrww1u-mo0sTwYs2W5)
 - [Introduction to Python Scripting in Maya](https://www.youtube.com/playlist?list=PL-4p6ppgFOkWtUtcp46Z_AufwVP0CougD)

@@ -47,4 +47,4 @@ ___
 
 ___
 ### Apps & Utils
-[Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)

@@ -3,7 +3,7 @@ title: Skeleton
 ---
 
 Building a [skeleton](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-906B71D3-C153-4880-A8EF-F9A6D1AE4AD5) is the process of placing and orienting joints to create a system with which you can pose a deformable object.  
-If you are creating a skeleton for a human biped, you would place joints at all the major points of articulation in its model. (shoulders, knees, elbows, spine and so on)
+If you are creating a skeleton for a human biped, you would place joints at all the major points of articulation in its model. (shoulders, knees, elbows, spine and so on)  
 The [skeleton hierarchy](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-DC88B9A7-593B-427E-9BED-4D7822B0E0B6) is composed of a series of joints and joints chains with hierarchical relationships.  
 
 ___

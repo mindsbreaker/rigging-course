@@ -18,4 +18,4 @@ A [joint chain](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-267B98
 The joint chain begins at the highest joint in the chain’s hierarchy, and its bones are drawn pointing down the chain.  
 
 ! You can't create a mirrored duplicate of a joint chain with a scale of -1.  
-! Use the mirror joint functionnality in the menu **Skeleton** -> **Mirror Joint**.  
+! Use the mirror joint functionnality in the main menu **Skeleton** -> **Mirror Joint**.  

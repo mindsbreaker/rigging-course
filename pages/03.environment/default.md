@@ -6,7 +6,12 @@ media_order: 'prefs_structure.jpg,module_structure.jpg'
 ___
 ### Preferences Files
 
-Default structure for Maya user preferences:  
+By default, Maya stores preferences files in the following path:  
+- Windows --> `..\Documents\maya\<version>\prefs`  
+- Linux --> `~<username>/maya/<version>/prefs`  
+- MacOS --> `/Users/<username>/Library/Preferences/Autodesk/maya/<version>/prefs`  
+
+Initial structure for Maya user preferences:  
 <img src="environment/prefs_structure.jpg" style="align:left;margin:5px 5px">  
 
 By default some useful directories are missing from the root folder: `plug-ins` & `modules`  
@@ -16,12 +21,12 @@ In the same way, these directories inside the version folder **2020** can only b
 ___
 ### Startup File
 
-To load tools & execute commands at Maya startup, simply create a [userSetup](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-F3D60949-2372-47F5-B8D6-78D73F78D587) **Mel** (`.mel`) or **Python** (`.py`) file.  
-Drop this file in a **scripts** directory sourced by Maya.
+To load tools & execute custom commands at Maya startup, simply create a file named [userSetup](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-F3D60949-2372-47F5-B8D6-78D73F78D587) with a `.mel` or `.py` extension.  
+Drop this file in a *scripts* directory sourced by Maya.
 
 !!!! Maya will only evaluate the first *userSetup* found in the scripts paths, but each **module** could have its own *userSetup* file
 
-Get examples files:  
+Examples files:  
 - Python -> [userSetup.py](https://u.pcloud.link/publink/show?code=XZF44HXZcS6uu3ngbLFS0E8cMfUG4QjlfwIV) 
 - Mel -> [userSetup.mel](https://u.pcloud.link/publink/show?code=XZJ44HXZDWLBtWdg4ImQ9i2lUGwDMRnRG6YV)
 

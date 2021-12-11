@@ -7,8 +7,8 @@ ___
 ### Preferences Files
 
 By default, Maya stores preferences files in the following path:  
-- Windows --> `..\Documents\maya\<version>\prefs`  
-- Linux --> `~<username>/maya/<version>/prefs`  
+- Windows --> `C:\Users\<username>\Documents\maya\<version>\prefs`  
+- Linux --> `/home/<username>/maya/<version>/prefs`  
 - MacOS --> `/Users/<username>/Library/Preferences/Autodesk/maya/<version>/prefs`  
 
 Initial structure for Maya user preferences:  
@@ -16,7 +16,15 @@ Initial structure for Maya user preferences:
 
 By default some useful directories are missing from the root folder: `plug-ins` & `modules`  
 Creating these directories in the root folder **maya** allow the different installed versions of Maya to load their content.  
-In the same way, these directories inside the version folder **2020** can only be discovered by this version.
+In the same way, these directories inside the version folder **2020** can only be discovered / sourced by Maya 2020.
+
+___
+### Modules
+A [module](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=__developer_Maya_SDK_MERGED_Distributing_Maya_Plug_ins_DistributingUsingModules_Maya_module_paths_folders_and_html) is a simple directory with sub folders, it's defined to Maya by a description file ::: **`.mod`** or **`.txt`**
+The module folder could contain scripts, plug-ins, icons & custom files related to a complex tool.
+
+Default module structure:  
+<img src="environment/module_structure.jpg" style="align:left;margin:5px 5px">  
 
 ___
 ### Startup File
@@ -26,9 +34,9 @@ Drop this file in a *scripts* directory sourced by Maya.
 
 !!!! Maya will only evaluate the first *userSetup* found in the scripts paths, but each **module** could have its own *userSetup* file
 
-Examples files:  
-- Python -> [userSetup.py](https://u.pcloud.link/publink/show?code=XZF44HXZcS6uu3ngbLFS0E8cMfUG4QjlfwIV) 
-- Mel -> [userSetup.mel](https://u.pcloud.link/publink/show?code=XZJ44HXZDWLBtWdg4ImQ9i2lUGwDMRnRG6YV)
+Example files:  
+- Python --> [userSetup.py](https://u.pcloud.link/publink/show?code=XZF44HXZcS6uu3ngbLFS0E8cMfUG4QjlfwIV) 
+- Mel --> [userSetup.mel](https://u.pcloud.link/publink/show?code=XZJ44HXZDWLBtWdg4ImQ9i2lUGwDMRnRG6YV)
 
 ___
 ### Variables

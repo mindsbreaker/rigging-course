@@ -17,6 +17,7 @@ Riggers start with a virtual 3D model for a character. They study how a characte
 Riggers break down those motions into individual elements and create the hundreds of control points that animators will use to create poses.  
 
 <br>
+<br>
 ___
 ### Course Content Files
 

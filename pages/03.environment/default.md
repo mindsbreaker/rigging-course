@@ -7,7 +7,7 @@ ___
 ### Preferences Files
 
 Default structure for Maya user preferences:  
-<img src="prefs_structure.png" style="float:left;margin:5px 5px">
+<img src="prefs_structure.jpg" style="float:left;margin:5px 5px">
 
 By default some useful directories are missing from the root folder: `plug-ins` & `modules`  
 Creating these directories in the root folder **maya** allow the different installed versions of Maya to load their content.  

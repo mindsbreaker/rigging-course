@@ -1,0 +1,40 @@
+
+// =====================================================================
+//      STARTUP SETTINGS
+// =====================================================================
+
+
+if (`about -batch` == false)
+{
+    // Plugins
+    // -----------------------------------------------------------------
+    loadPlugin -quiet "matrixNodes";
+    loadPlugin -quiet "meshReorder";
+    loadPlugin -quiet "invertShape";
+    loadPlugin -quiet "curveWarp";
+
+    // Settings
+    // -----------------------------------------------------------------
+    help -popupMode true -popupSimpleMode false;
+    optionVar -iv inViewMessageEnable true;
+    optionVar -iv inViewMessageAssistEnable true;
+    optionVar -iv inViewMessageStatusEnable true;
+
+    selectPref -trackSelectionOrder true;
+    evalDeferred("currentUnit -linear \"meter\" -angle \"degree\" -time \"film\";");
+
+    animDisplay -refAnimCurvesEditable false;
+    playbackOptions -playbackSpeed 0 -by 1 -maxPlaybackSpeed 1 -view "active" -loop "once";
+    keyTangent -global -inTangentType auto -outTangentType auto -weightedTangents false;
+    autoKeyframe -state false;
+
+    evaluationManager -mode parallel;
+    optionVar -iv gpuOverride true;
+    optionVar -iv prepopulateController true;
+
+    evalDeferred("evaluator -name \"cache\" -enable 0;");
+
+    // Tools
+    // -----------------------------------------------------------------
+    evalDeferred("source MayaBonusTools_load.mel; bt_displayControl;");
+}

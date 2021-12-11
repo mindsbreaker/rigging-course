@@ -1,0 +1,37 @@
+@echo off
+
+rem - MAYA VERSION -
+set VERSION=2020
+
+rem - SHARED PATHS -
+set ROOT=%USERPROFILE%\Documents\maya
+set MODULES=%ROOT%\modules
+rem set SHARED=p:\<your>\<shared>\<path>
+
+rem - FILE PATHS -
+set MAYA_MODULE_PATH=
+set PYTHONPATH=
+set MAYA_SCRIPT_PATH=
+set MAYA_PLUG_IN_PATH=
+set XBMLANGPATH=
+set MAYA_PRESET_PATH=
+set MAYA_SHELF_PATH=
+set MAYA_PROJECTS_DIR=
+set MAYA_PROJECT=
+set MAYA_CUSTOM_TEMPLATE_PATH=
+set MAYA_CUSTOM_TEMPLATE_WRITE_PATH=
+set MAYA_CMD_FILE_OUTPUT=%ROOT%\%VERSION%\maya_output.log
+set TEMP=%USERPROFILE%\temp
+set TMPDIR=%USERPROFILE%\temp
+
+rem - SPECIFICS -
+set MAYA_DISABLE_CLIC_IPM=1
+set MAYA_DISABLE_CIP=1
+set MAYA_DISABLE_CER=1
+set MAYA_NO_WARNING_FOR_MISSING_DEFAULT_RENDERER=1
+
+rem - CREATE DIRECTORY - 
+if not exist "%USERPROFILE%\temp" mkdir %USERPROFILE%\temp
+
+rem - START MAYA -
+start /MAX C:\PROGRA~1\Autodesk\Maya%VERSION%\bin\maya.exe -noAutoloadPlugins

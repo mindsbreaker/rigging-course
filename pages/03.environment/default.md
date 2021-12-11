@@ -1,91 +1,30 @@
 ---
 title: Environment
+media_order: 'prefs_structure.jpg,module_structure.jpg'
 ---
 
 ___
-### Deploy Tools
-
+### Preferences Files
 Minimal / default structure for Maya user preferences:  
-![Preferences default structure](resources/images/prefs_structure.jpg)
+![Preferences files & folders](environment/prefs_structure.jpg "prefs_structure")
+
+Get a clean Maya prefs structure ::: [:cloud: maya_clean.zip](https://u.pcloud.link/publink/show?code=XZz44HXZ9IsT5TAPFnVV7XNvOUKngk81APo7)
 
 By default some useful directories are missing: `plug-ins` & `modules`  
 Creating these directories in the root folder *'maya'* allow the different versions of Maya to load their content.  
 In the same way, these directories inside the version folder *'2020'* can only be discovered by this version.
 
-> :warning: **Attention:** The plugins files **`.mll`** & **`.so`** are compiled for specific Maya version.  
-> Drop them in the *'plug-ins'* folder inside the version directory.
+___
+### Startup File
 
-<br>
+To load tools & execute commands at Maya startup, simply create a [userSetup](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-F3D60949-2372-47F5-B8D6-78D73F78D587) **Mel** (`.mel`) or **Python** (`.py`) file.  
+Drop this file in a **scripts** directory sourced by Maya.
 
-Modules are so **:cool:** ...  
-A [module](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=__developer_Maya_SDK_MERGED_Distributing_Maya_Plug_ins_DistributingUsingModules_Maya_module_paths_folders_and_html) is a simple directory with sub folders, it's defined to Maya by a description file ::: **`.mod`** | **`.txt`**
+!!!! Maya will only evaluate the first *userSetup* found in the scripts paths, but each **module** could have its own *userSetup* file
 
-Default module structure:  
-![Module default structure](resources/images/module_structure.jpg)
-
-<br>
-
-
-Some lines from a description file content:
-```shell
-+ MAYAVERSION:2020 PLATFORM:win64 bonusTools 20.0.1 ./bonusTools/20.0.1
-scripts: scripts-2020/
-PYTHONPATH +:= python-2020/
-plug-ins: plug-ins/win64-2020
-
-+ MAYAVERSION:2020 PLATFORM:linux bonusTools 20.0.1 ./bonusTools/20.0.1
-scripts: scripts-2020/
-PYTHONPATH +:= python-2020/
-plug-ins: plug-ins/linux-2020
-```
-> :information_source: **Note:** Scripts & plug-ins default paths are overrided for specific context :::`MAYAVERSION` & `PLATFORM`.  
-> A path is added to the environment variable `PYTHONPATH` with these operators ::: **`+:=`**
-
-<br>
-
-Get modules archives:  
-
-| Module                | Description         
-| --------------------  | --------------------
-| [:cloud: Bonus Tools](https://u.pcloud.link/publink/show?code=XZQ44HXZGRp3myMYEhkh1H7mbXnlG4wow2uX)  | Official collection of useful Maya scripts and plug-ins ::: [Autodesk Apps](https://apps.autodesk.com/MAYA/fr/Detail/Index?id=8115150172702393827&os=Win64&appLang=en) & [Overview](https://www.youtube.com/watch?v=JX6CBJXErQE&list=PLRhyUhUvvnOTWQP527tK_msQwDgstzIc_)
-| [:cloud: Security Tools](https://u.pcloud.link/publink/show?code=XZm44HXZQj7dJGEUb1z4R8pU1q6EyXF2TLJX)  | Official tools to removes malicious scripts from `.ma` & `.mb` files ::: [Autodesk Apps](https://apps.autodesk.com/MAYA/fr/Detail/Index?id=8637238041954239715&os=Win64&appLang=en)
-| [:cloud: Module Template](https://u.pcloud.link/publink/show?code=XZb44HXZEaCwRg7AsX0fvSVEGHp0i4r7qfuX)  | A minimal module example with some custom scripts.
-
-<br>
-
-### Startup Settings
-
-To load tools & execute commands at Maya startup, simply create a [userSetup](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-F3D60949-2372-47F5-B8D6-78D73F78D587) file ::: `.mel` / `.py`  
-Drop this file in a *'scripts'* directory sourced by Maya.
-
->:bulb: **Tip:** Maya will only evaluate the first userSetup found in the scripts paths, but ...  
-Each module could have its own userSetup file ... YES so **:cool:** !
-
-<br>
-
-
-Short example from `userSetup.py`:  
-```python
-from maya import cmds, mel
-
-if not cmds.about(batch=True):
-    cmds.loadPlugin("matrixNodes", quiet=True)
-
-    cmds.selectPref(trackSelectionOrder=1)
-    
-    cmds.evalDeferred("cmds.evaluator(name=\"cache\", enable=0)")
-
-    mel.eval('source MayaBonusTools_load.mel; bt_displayControl;')
-```
-> :information_source: **Note:**  With the **`if not`** statement, commands will be executed only if Maya isn't in batch mode.  
-
-<br>
-
-Get template files:  
-
-| Python                | Mel                 
-| --------------------  | --------------------
-| [:cloud: userSetup.py](https://u.pcloud.link/publink/show?code=XZF44HXZcS6uu3ngbLFS0E8cMfUG4QjlfwIV)  | [:cloud: userSetup.mel](https://u.pcloud.link/publink/show?code=XZJ44HXZDWLBtWdg4ImQ9i2lUGwDMRnRG6YV)
+Get examples files:  
+- Python -> [userSetup.py](https://u.pcloud.link/publink/show?code=XZF44HXZcS6uu3ngbLFS0E8cMfUG4QjlfwIV) 
+- Mel -> [userSetup.mel](https://u.pcloud.link/publink/show?code=XZJ44HXZDWLBtWdg4ImQ9i2lUGwDMRnRG6YV)
 
 ___
 ### Variables
@@ -134,7 +73,7 @@ A custom app launcher could be a simple **`.bat`** file on Windows and **`.sh`**
 
 Short example on Windows:  
 ```
-set SHARED_PATH=%USERPROFILE%\Documents\maya\modules
+set SHARED_PATH=%USERPROFILE%\Documents\maya\my_custom_modules
 set MAYA_MODULE_PATH=%SHARED_PATH%\bonusTools\22.0.1;
 
 start /MAX C:\PROGRA~1\Autodesk\Maya2020\bin\maya.exe -noAutoloadPlugins

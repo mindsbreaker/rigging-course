@@ -20,7 +20,7 @@ In the same way, these directories inside the version folder **2020** can only b
 
 ___
 ### Modules
-A [module](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=__developer_Maya_SDK_MERGED_Distributing_Maya_Plug_ins_DistributingUsingModules_Maya_module_paths_folders_and_html) is a simple directory with sub folders, it's defined to Maya by a description file ::: **`.mod`** or **`.txt`**
+A [module](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=__developer_Maya_SDK_MERGED_Distributing_Maya_Plug_ins_DistributingUsingModules_Maya_module_paths_folders_and_html) is a simple directory with sub folders, it's defined to Maya by a description file ::: **`.mod`** or **`.txt`**  
 The module folder could contain scripts, plug-ins, icons & custom files related to a complex tool.
 
 Default module structure:  
@@ -93,6 +93,6 @@ start /MAX C:\PROGRA~1\Autodesk\Maya2020\bin\maya.exe -noAutoloadPlugins
 !!! Start Maya from the command line with [arguments](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-2E5D1D43-DC3D-4CB2-9A35-757598220F22) ::: **`-hideConsole -nosplash -batch -command`**  
 
 Launcher file examples:
-- Windows [bat file](https://u.pcloud.link/publink/show?code=XZURRHXZMaoUOt5ejr8zmsTMq69QEFL2uBzk)
-- Linux [sh file](https://u.pcloud.link/publink/show?code=XZE84HXZg91fYe7GWyVJsAtbsbbUAjTH9yeV)
+- Windows --> [bat file](https://u.pcloud.link/publink/show?code=XZURRHXZMaoUOt5ejr8zmsTMq69QEFL2uBzk)
+- Linux --> [sh file](https://u.pcloud.link/publink/show?code=XZE84HXZg91fYe7GWyVJsAtbsbbUAjTH9yeV)
 

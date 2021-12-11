@@ -25,6 +25,6 @@ ___
 
 | **File** | **Description**
 | :--------- | :--------------------
-| [playground.ma](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/scenes/playground_rig.zip?raw=true) | Base scene for technical & rigging experiments
-| [ball_rig_start.ma](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/scenes/ball_rig_start.zip?raw=true) | Base scene for the "Ball Rig" exercice
-| [ball_rig_final.ma](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/scenes/ball_rig_final.zip?raw=true) | Final scene of the "Ball Rig" exercise
+| [Playground Base](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/scenes/playground_rig.zip?raw=true) | Base scene for technical & rigging experiments
+| [Ball Rig Start](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/scenes/ball_rig_start.zip?raw=true) | Base scene for the "Ball Rig" exercice
+| [Ball Rig Final](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/scenes/ball_rig_final.zip?raw=true) | Final scene of the "Ball Rig" exercise

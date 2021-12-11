@@ -6,12 +6,12 @@ media_order: 'prefs_structure.jpg,module_structure.jpg'
 ___
 ### Preferences Files
 
-Default structure for Maya user preferences: 
-![Preferences files & folders](prefs_structure.jpg "prefs_structure")
+Default structure for Maya user preferences:  
+<img src="prefs_structure.png" style="float:left;margin:5px 5px">
 
-By default some useful directories are missing: `plug-ins` & `modules`  
-Creating these directories in the root folder *'maya'* allow the different versions of Maya to load their content.  
-In the same way, these directories inside the version folder *'2020'* can only be discovered by this version.
+By default some useful directories are missing from the root folder: `plug-ins` & `modules`  
+Creating these directories in the root folder **maya** allow the different installed versions of Maya to load their content.  
+In the same way, these directories inside the version folder **2020** can only be discovered by this version.
 
 ___
 ### Startup File

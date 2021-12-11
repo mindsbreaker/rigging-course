@@ -23,3 +23,6 @@ Riggers break down those motions into individual elements and create the hundred
 ___
 ### Course Content Files
 
+| `File` | `Description`
+| :------ | :-----------
+| Playground | Base scene for experimenting with rigging techniques and processes

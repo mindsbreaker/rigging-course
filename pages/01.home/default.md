@@ -5,7 +5,6 @@ media_order: 'CrocoRig.jpg,CycleWarning.jpg,MaintainOffset.png'
 ---
 
 ___
-### Introduction
 
 <img src="CrocoRig.jpg" width="400" height="400" style="float:left;border:2px solid grey;margin:0px 30px">
 

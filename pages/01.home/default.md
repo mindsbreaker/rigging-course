@@ -21,8 +21,10 @@ Riggers break down those motions into individual elements and create the hundred
 <br>
 <br>
 ___
-### Course Content Files
+### Exercice Files
 
-| `File` | `Description`
-| :------ | :-----------
-| Playground | Base scene for experimenting with rigging techniques and processes
+| **File** | **Description**
+| :--------- | :--------------------
+| [playground.ma]() | Base scene for experimenting with rigging techniques and processes
+| [ball_rig_start.ma]() | Base scene for the "Ball Rig" exercice
+| [ball_rig_final.ma]() | Final scene of the "Ball Rig" exercise

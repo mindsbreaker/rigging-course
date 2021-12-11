@@ -5,10 +5,9 @@ media_order: 'prefs_structure.jpg,module_structure.jpg'
 
 ___
 ### Preferences Files
-Minimal / default structure for Maya user preferences:  
-![Preferences files & folders](environment/prefs_structure.jpg "prefs_structure")
 
-Get a clean Maya prefs structure ::: [:cloud: maya_clean.zip](https://u.pcloud.link/publink/show?code=XZz44HXZ9IsT5TAPFnVV7XNvOUKngk81APo7)
+Default structure for Maya user preferences:  
+![Preferences files & folders](environment/prefs_structure.jpg "prefs_structure")
 
 By default some useful directories are missing: `plug-ins` & `modules`  
 Creating these directories in the root folder *'maya'* allow the different versions of Maya to load their content.  

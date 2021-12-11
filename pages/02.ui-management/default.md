@@ -14,7 +14,7 @@ Customize your sets with the [Menu Set Editor](https://help.autodesk.com/view/MA
 Useful & main [marking menus](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-8BA1A3AA-4C44-4779-8B22-0AAE3627E8EB):  
 
 | *Marking Menu* | *Hotkey*            
-| --------------------  | --------------------
+| :-------------------- | :----------
 | Hotbox  | **`Spacebar`**  
 | Translate / rotate / scale  | **`W`** / **`E`** / **`R`** and **`LMB`**  
 | Global context  | **`RMB`**  

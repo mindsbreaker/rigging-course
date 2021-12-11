@@ -14,9 +14,7 @@ By default, Maya stores preferences files in the following path:
 Initial structure for Maya user preferences:  
 <img src="environment/prefs_structure.jpg" style="align:left;margin:5px 5px">  
 
-By default some useful directories are missing from the root folder: `plug-ins` & `modules`  
-Creating these directories in the root folder **maya** allow the different installed versions of Maya to load their content.  
-In the same way, these directories inside the version folder **2020** can only be discovered / sourced by Maya 2020.
+!!! You could create the missing folder **modules** in the preferences root folder (*maya*). Creating this directory allow all installed versions of Maya to discover & load the content.  
 
 ___
 ### Modules

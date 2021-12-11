@@ -52,7 +52,7 @@ List of most used, notably to share resources over the network:
 | `MAYA_PLUG_IN_PATH`               | Paths to source plug-ins ::: `.py` / `.mll` / `.so`
 | `MAYA_MODULE_PATH`                | Paths to source modules definitions ::: `.mod` / `.txt` / ...
 | `MAYA_SCRIPT_PATH`                | Paths to source mel & python scripts ::: `.mel` / `.py`
-| `PYTHONPATH`                      | Paths to source python scripts & modules dir ::: `.py` / `__init__.py`
+| `PYTHONPATH`                      | Paths to source python files & folders (module) ::: `.py` / `__init__.py`
 | `XBMLANGPATH`                     | Paths to source icons ::: `.png` / `.svg` / ...
 | `MAYA_SHELF_PATH`                 | Paths to source shelves definitions ::: `.mel`
 | `MAYA_PRESET_PATH`                | Paths to source presets definitions ::: `.mel`

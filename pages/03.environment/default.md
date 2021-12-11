@@ -77,7 +77,7 @@ The second method is better for at least two reasons:
 - Could be used in custom app launchers with more control.
 
 ___
-### App Launchers
+### App Launcher
 
 A custom app launcher could be a simple **`.bat`** file on Windows and **`.sh`** on Linux.  
 
@@ -87,7 +87,7 @@ set MAYA_MODULE_PATH=<modules_custom_path>\bonusTools\22.0.1;
 
 start /MAX C:\PROGRA~1\Autodesk\Maya2020\bin\maya.exe -noAutoloadPlugins
 ```
-!!! Start Maya from the command line with [arguments](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-2E5D1D43-DC3D-4CB2-9A35-757598220F22) ::: **`-hideConsole -nosplash -batch -command`**  
+!!! Start Maya from the command line with [**arguments**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-2E5D1D43-DC3D-4CB2-9A35-757598220F22) ::: **`-hideConsole -nosplash -batch -command`**  
 
 Launcher file examples:
 - Windows --> [bat file](https://u.pcloud.link/publink/show?code=XZURRHXZMaoUOt5ejr8zmsTMq69QEFL2uBzk)

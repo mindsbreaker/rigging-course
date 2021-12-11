@@ -25,6 +25,6 @@ ___
 
 | **File** | **Description**
 | :--------- | :--------------------
-| [playground.ma]() | Base scene for experimenting with rigging techniques and processes
+| [playground.ma]() | Base scene for technical & rigging experiments
 | [ball_rig_start.ma]() | Base scene for the "Ball Rig" exercice
 | [ball_rig_final.ma]() | Final scene of the "Ball Rig" exercise

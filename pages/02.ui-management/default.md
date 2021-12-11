@@ -48,4 +48,4 @@ ___
 Use [Workspaces](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-0384C282-3CA1-4587-9775-F7164D3F6980) to manage your tabbed panels & UI configuration.  
 In the workspace [layout options](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-B69DF865-D749-43C6-9FD7-BC3E454C0311) you can link a **Menu Set**, a **Hotkey Set** and a **VP2.0 Preset**.  
 
-!!! To avoid bad UI manipulation you can **lock** the workspace with the *lock* button in the upper right corner of Maya's main window.  
+!!! You can **lock** the workspace with the *lock* button in the upper right corner of Maya's main window.  

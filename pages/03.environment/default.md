@@ -34,8 +34,8 @@ Drop this file in a *scripts* directory sourced by Maya.
 !!!! Maya will only evaluate the first **userSetup** file found in the scripts paths, but each **module** could have its own *userSetup*.  
 
 Startup file examples:  
-- Python --> [userSetup.py](https://u.pcloud.link/publink/show?code=XZF44HXZcS6uu3ngbLFS0E8cMfUG4QjlfwIV) 
-- Mel --> [userSetup.mel](https://u.pcloud.link/publink/show?code=XZJ44HXZDWLBtWdg4ImQ9i2lUGwDMRnRG6YV)
+- Python --> [userSetup.py](https://github.com/mindsbreaker/rigging-course/raw/main/content_files/files/startups/userSetup.py) 
+- Mel --> [userSetup.mel](https://github.com/mindsbreaker/rigging-course/raw/main/content_files/files/startups/userSetup.mel)
 
 ___
 ### Variables
@@ -91,6 +91,6 @@ start /MAX C:\PROGRA~1\Autodesk\Maya2020\bin\maya.exe -noAutoloadPlugins
 !!! Start Maya from the command line with [**arguments**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-2E5D1D43-DC3D-4CB2-9A35-757598220F22) ::: **`-hideConsole -nosplash -batch -command`**  
 
 Launcher file examples:
-- Windows --> [bat file](https://u.pcloud.link/publink/show?code=XZURRHXZMaoUOt5ejr8zmsTMq69QEFL2uBzk)
-- Linux --> [sh file](https://u.pcloud.link/publink/show?code=XZE84HXZg91fYe7GWyVJsAtbsbbUAjTH9yeV)
+- Windows --> [bat file](https://github.com/mindsbreaker/rigging-course/raw/main/content_files/files/launchers/maya_2020.bat)
+- Linux --> [sh file](https://github.com/mindsbreaker/rigging-course/raw/main/content_files/files/launchers/maya_2020.sh)
 

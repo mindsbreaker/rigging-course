@@ -74,7 +74,7 @@ There are two methods to set variables before Maya's startup:
 2. Using OS commands ::: [set | setenv | export](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-1D8B1A57-6FA3-4494-8FEC-87DA2A38FD35)
 
 The second method is better for at least two reasons:
-- The variables set in the OS take priority over any settings in the Maya.env file.
+- The variables set in the OS take priority over any settings in the *Maya.env* file.
 - Could be used in custom app launchers with more control.
 
 ___

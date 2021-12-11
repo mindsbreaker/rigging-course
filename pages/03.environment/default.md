@@ -83,8 +83,7 @@ A custom app launcher could be a simple **`.bat`** file on Windows and **`.sh`**
 
 Short example on Windows:  
 ```
-set SHARED_PATH=%USERPROFILE%\Documents\maya\my_custom_modules
-set MAYA_MODULE_PATH=%SHARED_PATH%\bonusTools\22.0.1;
+set MAYA_MODULE_PATH=<modules_custom_path>\bonusTools\22.0.1;
 
 start /MAX C:\PROGRA~1\Autodesk\Maya2020\bin\maya.exe -noAutoloadPlugins
 ```

@@ -14,7 +14,8 @@ By default, Maya stores preferences files in the following path:
 Initial structure for Maya user preferences:  
 <img src="environment/prefs_structure.jpg" style="align:left;margin:5px 5px">  
 
-!!! You could create the missing folder **modules** in the preferences root folder (*maya*). Creating this directory allow all installed versions of Maya to discover & load the content.  
+!!! You could create the missing folder **modules** in the preferences root folder (*maya*).  
+!!! Creating this directory allow all installed versions of Maya to discover & load the content.  
 
 ___
 ### Modules

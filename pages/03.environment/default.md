@@ -28,9 +28,9 @@ ___
 ### Startup File
 
 To load tools & execute custom commands at Maya startup, simply create a file named [userSetup](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-F3D60949-2372-47F5-B8D6-78D73F78D587) with a `.mel` or `.py` extension.  
-Drop this file in a *scripts* directory sourced by Maya.
+Drop this file in a *scripts* directory sourced by Maya.  
 
-!!!! Maya will only evaluate the first *userSetup* found in the scripts paths, but each **module** could have its own *userSetup* file
+!!!! Maya will only evaluate the first **userSetup** file found in the scripts paths, but each **module** could have its own *userSetup*.  
 
 Startup file examples:  
 - Python --> [userSetup.py](https://u.pcloud.link/publink/show?code=XZF44HXZcS6uu3ngbLFS0E8cMfUG4QjlfwIV) 

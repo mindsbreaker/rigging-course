@@ -25,6 +25,9 @@ The module folder could contain scripts, plug-ins, icons & custom files related 
 Default module structure:  
 <img src="environment/module_structure.jpg" style="align:left;margin:5px 5px">  
 
+Module example:  
+- [Module Template](https://github.com/mindsbreaker/rigging-course/raw/main/content_files/files/tools/moduleTemplate.zip) 
+
 ___
 ### Startup File
 

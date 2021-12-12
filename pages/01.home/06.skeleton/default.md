@@ -14,7 +14,8 @@ Bones are only visual cues that illustrate the relationships between joints.
 
 !!! Joints are specific nodes without shape, they can't be rendered but are displayed in the viewport by the bones (visual helpers).  
 
-A [joint chain](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-267B988F-4E21-4963-BF6A-478E5F6FEF81) is any group of joints and their bones connected in a series.  
+#### Joint chain
+A [joint chain](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-267B988F-4E21-4963-BF6A-478E5F6FEF81) is any group of joints and their bones connected in a series (nested parenting).  
 The joint chain begins at the highest joint in the chain’s hierarchy, and its bones are drawn pointing down the chain.  
 
 To duplicate a joint chain on the opposite side, for example from left to right, use the [mirror joint tool](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-CEA7B7ED-10B9-43C7-AD15-8B7E4DC44360) in the main menu **Skeleton** -> **Mirror Joint**.  

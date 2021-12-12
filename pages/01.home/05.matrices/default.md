@@ -10,7 +10,7 @@ In the context of a 3D application, a matrix is simply a representation of a tra
 One transformation matrix can encode the translation, orientation, scale and shearing of an object.  
 Transformation matrices are stored as 4x4 matrices, meaning they have 4 rows and 4 columns and they look like this:  
 
-`[ 1 0 0 0 ]`  
-`[ 0 1 0 0 ]`  
-`[ 0 0 1 0 ]`  
-`[ 0 0 0 1 ]`  
+!!! [ 1 0 0 0 ]  
+!!! [ 0 1 0 0 ]  
+!!! [ 0 0 1 0 ]  
+!!! [ 0 0 0 1 ]  

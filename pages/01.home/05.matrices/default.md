@@ -3,7 +3,7 @@ title: Matrices
 media_order: 'MatrixIdentity.jpg,MayaMatrices.jpg,OffsetParentMatrix.png'
 ---
 
-!!!! <i class="fa fa-play-circle"></i> [**Introduction to Matrix & Parent Offset Matrix**](https://www.youtube.com/watch?v=JOYMV-bQdlM)  
+!!!! <i class="fa fa-play-circle"></i> [**Introduction to Matrix and Parent Offset Matrix in Maya**](https://www.youtube.com/watch?v=JOYMV-bQdlM)  
 
 In the context of a 3D application, a matrix is simply a representation of a transformation.  
 One transformation matrix can encode the translation, orientation, scale and shearing of an object.  

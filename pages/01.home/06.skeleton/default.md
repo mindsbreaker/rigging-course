@@ -22,9 +22,13 @@ The joint chain begins at the highest joint in the chain’s hierarchy, and its 
 ___
 ### Inverse Kinematics (IK)
 
-With inverse kinematics (IK), you move an IK handle to pose an entire joint chain.  
-An IK handle is an object you can select and move that affects the joints it is assigned to.  
-A joint chain that has an IK handle is called an IK chain.  
+With inverse kinematics, you move an [IK handle](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-A68E47F5-8F28-48C1-9B0F-370AA57ADDA8) to pose an entire joint chain. A joint chain that has an IK handle is called an IK chain.  
 When you pose and animate a joint chain with an IK handle, the IK solver automatically rotates all the joints in the IK chain. 
-The IK [solver](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-952FC4B3-19A6-4055-B034-3A7D15EC66D6) is what Maya uses to calculate the rotations of all the joints in the IK chain when you position the IK handle.  
 
+#### Solvers
+IK [solvers](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-952FC4B3-19A6-4055-B034-3A7D15EC66D6) are the mathematical algorithms behind IK handles.  
+IK solvers calculate the rotations of all the joints in a joint chain controlled by an IK handle.
+
+- Single Chain IK solver (ikSCsolver)
+- Rotate Plane IK solver (ikRPsolver)
+- Spline IK solver (ikSplineSolver)

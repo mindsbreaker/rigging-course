@@ -51,7 +51,7 @@ ___
 - [Realtime Creature Rigging Workshop](https://www.youtube.com/playlist?list=PL8hZ6hQCGHMUIOilrww1u-mo0sTwYs2W5)
 - [antCGi - Rigging in Maya Series](https://www.youtube.com/c/Antcgi/playlists?view=50&sort=dd&shelf_id=3)
 
-### Python Dev
+#### Python
 - [Begining Python for Maya](https://zurbrigg.com/tutorials/beginning-python-for-maya)
 - [Introduction to Python Scripting in Maya](https://www.youtube.com/playlist?list=PL-4p6ppgFOkWtUtcp46Z_AufwVP0CougD)
 

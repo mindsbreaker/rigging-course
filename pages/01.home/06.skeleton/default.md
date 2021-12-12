@@ -7,7 +7,7 @@ If you are creating a skeleton for a human biped, you would place joints at all 
 The [skeleton hierarchy](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-DC88B9A7-593B-427E-9BED-4D7822B0E0B6) is composed of a series of joints and joints chains with hierarchical relationships.  
 
 ___
-### Joints and bones
+### Joints
 
 [Joints](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-1B59334F-2605-44C3-B584-A55B239A2CBE) are the building blocks of skeletons and their points of articulation. Each joint can have one or more bone attached to it, and more than one child joint.  
 Bones are only visual cues that illustrate the relationships between joints.  
@@ -18,3 +18,8 @@ A [joint chain](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-267B98
 The joint chain begins at the highest joint in the chain’s hierarchy, and its bones are drawn pointing down the chain.  
 
 ! You can't create a mirrored duplicate of a joint chain with a scale of -1. Instead, use the mirror joint tool in the main menu **Skeleton** -> **Mirror Joint**.  
+
+___
+### Solvers
+
+

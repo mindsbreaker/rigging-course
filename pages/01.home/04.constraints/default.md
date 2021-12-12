@@ -26,3 +26,6 @@ ___
 
 ___
 ### Pin Constraints
+- **Proximity Pin** --> The proximityPin node outputs positions by calculating the closest point on a surface to a given world position.
+- **UV Pin** --> Similar to proximityPin, but uses input UV coordinates to calculate and output positions.
+- **Rivet** --> Rivet is a command that quickly creates uvPin node using common settings.

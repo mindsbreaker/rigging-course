@@ -21,7 +21,7 @@ Riggers break down those motions into individual elements and create the hundred
 <br>
 <br>
 ___
-### Exercice Files
+### Courses Scenes Files
 
 | **File** | **Description**
 | :--------- | :--------------------

@@ -23,12 +23,16 @@ Riggers break down those motions into individual elements and create the hundred
 ___
 ### Courses Scenes Files
 
-| **File** | **Description**
-| :--------- | :--------------------
+| **Start File** | **Description**
+| :---------------- | :--------------------
 | [Playground Rig Start](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/scenes/playground_rig_start.zip?raw=true) | Base scene for technical & rigging experiments
 | [Ball Rig Start](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/scenes/ball_rig_start.zip?raw=true) | Base scene for the "Ball Rig" exercice
-| [Ball Rig Final](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/scenes/ball_rig_final.zip?raw=true) | Final scene of the "Ball Rig" exercise
 | [Teddy Rig Start](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/scenes/teddy_rig_start.zip?raw=true) | Base scene for the "Teddy Rig" exercice
-| [Teddy Rig Final](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/scenes/teddy_rig_final.zip?raw=true) | Final scene of the "Teddy Rig" exercise
 | [Robo Rig Start](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/scenes/robo_rig_start.zip?raw=true) | Base scene for the "Robo Rig" exercice
 | [Human Rig Start](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/scenes/human_rig_start.zip?raw=true) | Final scene of the "Human Rig" exercise
+
+
+| **Final File** | **Description**
+| :---------------- | :--------------------
+| [Ball Rig Final](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/scenes/ball_rig_final.zip?raw=true) | Final scene of the "Ball Rig" exercise
+| [Teddy Rig Final](https://github.com/mindsbreaker/rigging-course/blob/main/content_files/scenes/teddy_rig_final.zip?raw=true) | Final scene of the "Teddy Rig" exercise

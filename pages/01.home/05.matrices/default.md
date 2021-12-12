@@ -14,4 +14,4 @@ To experiment matrix composition, Maya 2020's **offset parent matrix** is great 
 <img src="matrices/OffsetParentMatrix.png" style="align:left;margin:5px 5px">  
 
 Here a nice for Maya matrices  
-![Cheat Sheet](MayaMatrices.jpg?link&display=text)
+<a href="matrices/MatrixIdentity.jpg"><img title="Cheat Sheet" alt="" src="matrices/MatrixIdentity.jpg" /></a>

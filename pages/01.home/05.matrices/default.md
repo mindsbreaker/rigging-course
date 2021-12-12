@@ -15,4 +15,4 @@ Transformation matrices are stored as 4x4 matrices, meaning they have 4 rows and
 To experiment matrix composition, Maya 2020's **offset parent matrix** is great for that because you can manipulate the matrix directly in the attribute editor:  
 <img src="matrices/OffsetParentMatrix.png" style="align:left;margin:5px 5px">  
 
-!!!! <i class="fa fa-play-circle"></i> [**Maya constraint with Matrix nodes**](https://www.youtube.com/watch?v=ROnrCFLgNHE)  
+!!! <i class="fa fa-play-circle"></i> [**Maya constraint with Matrix nodes**](https://www.youtube.com/watch?v=ROnrCFLgNHE)  

@@ -12,7 +12,7 @@ ___
 [Joints](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-1B59334F-2605-44C3-B584-A55B239A2CBE) are the building blocks of skeletons and their points of articulation. Each joint can have one or more bone attached to it, and more than one child joint.  
 Bones are only visual cues that illustrate the relationships between joints.  
 
-!!! Joints are specific nodes without shape, they can't be rendered but are displayed in the viewport by the bones (visual helpers).  
+!!! **Joints** are specific nodes without shape, they can't be rendered but are displayed in the viewport by the bones (visual helpers).  
 
 #### Joint chain
 A [joint chain](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-267B988F-4E21-4963-BF6A-478E5F6FEF81) is any group of joints and their bones connected in a series (nested parenting).  

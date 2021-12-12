@@ -20,6 +20,11 @@ The joint chain begins at the highest joint in the chain’s hierarchy, and its 
 ! You can't create a mirrored duplicate of a joint chain with a scale of -1. Instead, use the mirror joint tool in the main menu **Skeleton** -> **Mirror Joint**.  
 
 ___
-### Solvers
+### Inverse Kinematics (IK)
 
+With inverse kinematics (IK), you move an IK handle to pose an entire joint chain.  
+An IK handle is an object you can select and move that affects the joints it is assigned to.  
+A joint chain that has an IK handle is called an IK chain.  
+When you pose and animate a joint chain with an IK handle, the IK solver automatically rotates all the joints in the IK chain. 
+The IK [solver](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-952FC4B3-19A6-4055-B034-3A7D15EC66D6) is what Maya uses to calculate the rotations of all the joints in the IK chain when you position the IK handle.  
 

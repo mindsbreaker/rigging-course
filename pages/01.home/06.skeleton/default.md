@@ -29,6 +29,9 @@ When you pose and animate a joint chain with an IK handle, the IK solver automat
 IK [solvers](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-952FC4B3-19A6-4055-B034-3A7D15EC66D6) are the mathematical algorithms behind IK handles.  
 IK solvers calculate the rotations of all the joints in a joint chain controlled by an IK handle.
 
-- Single Chain IK solver (ikSCsolver)
-- Rotate Plane IK solver (ikRPsolver)
-- Spline IK solver (ikSplineSolver)
+- Single Chain IK solver ([ikSCsolver](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-44AFF765-D81B-4A30-81A2-97FC7F683889))
+- Rotate Plane IK solver ([ikRPsolver](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-9942FFB5-65C2-46E2-B5A3-297667A9FB5D))
+- Spline IK solver ([ikSplineSolver](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-B4EF8784-92D1-4D83-9CA5-A692D06607B8))
+
+!!!! The **rotate plane solver** was introduced with the [**pole vector**](https://help.autodesk.com/view/MAYAUL/2020/ENU/?guid=GUID-73C8C5B2-B0F8-4B96-9BB3-8AD257747E3D) to control the flipping of IK chains that you sometimes get with the single chain solver.  
+!!!! It is not recommended to use a single chain solver for a 2 bone chain.

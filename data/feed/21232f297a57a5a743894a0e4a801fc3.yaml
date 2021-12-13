@@ -1,4 +1,4 @@
-last_checked: 1639224759
+last_checked: 1639384226
 data:
   -
     title: 'macOS 12.0 Monterey Apache Setup: LetsEncrypt SSL'
@@ -24,7 +24,7 @@ data:
     title: 'Skeleton Build Automation'
     url: 'https://getgrav.org/blog/skeletons-build-automation'
     date: 1614347940
-    nicetime: '9 months ago'
+    nicetime: '10 months ago'
   -
     title: 'Using Grav''s new built-in Web Server'
     url: 'https://getgrav.org/blog/using-builtin-webserver'
